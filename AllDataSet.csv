@@ -1,0 +1,3614 @@
+,Unnamed: 0,establishment,type,month,value
+1,1,Agra Cantt,Addition,March,1456.0
+2,2,Agra Cantt,Addition,April,229.0
+3,3,Agra Cantt,Addition,May,32.0
+4,4,Agra Cantt,Deletion,March,51.0
+5,5,Agra Cantt,Deletion,April,213.0
+6,6,Agra Cantt,Deletion,May,31.0
+7,7,Agra Cantt,Modification,March,734.0
+8,8,Agra Cantt,Modification,April,152.0
+9,9,Agra Cantt,Modification,May,23.0
+10,10,Agra North,Addition,March,53.0
+11,11,Agra North,Addition,April,1421.0
+12,12,Agra North,Addition,May,47.0
+13,13,Agra North,Deletion,March,93.0
+14,14,Agra North,Deletion,April,242.0
+15,15,Agra North,Deletion,May,28.0
+16,16,Agra North,Modification,March,845.0
+17,17,Agra North,Modification,April,351.0
+18,18,Agra North,Modification,May,57.0
+19,19,Agra Rural,Addition,March,306.0
+20,20,Agra Rural,Addition,April,803.0
+21,21,Agra Rural,Addition,May,374.0
+22,22,Agra Rural,Deletion,March,203.0
+23,23,Agra Rural,Deletion,April,194.0
+24,24,Agra Rural,Deletion,May,18.0
+25,25,Agra Rural,Modification,March,162.0
+26,26,Agra Rural,Modification,April,270.0
+27,27,Agra Rural,Modification,May,144.0
+28,28,Agra South,Addition,March,347.0
+29,29,Agra South,Addition,April,740.0
+30,30,Agra South,Addition,May,29.0
+31,31,Agra South,Deletion,March,19.0
+32,32,Agra South,Deletion,April,158.0
+33,33,Agra South,Deletion,May,18.0
+34,34,Agra South,Modification,March,129.0
+35,35,Agra South,Modification,April,152.0
+36,36,Agra South,Modification,May,12.0
+37,37,Ajagara,Addition,March,236.0
+38,38,Ajagara,Addition,April,179.0
+39,39,Ajagara,Addition,May,268.0
+40,40,Ajagara,Deletion,March,12.0
+41,41,Ajagara,Deletion,April,41.0
+42,42,Ajagara,Deletion,May,9.0
+43,43,Ajagara,Modification,March,175.0
+44,44,Ajagara,Modification,April,152.0
+45,45,Ajagara,Modification,May,201.0
+46,46,Akbarpur,Addition,March,230.0
+47,47,Akbarpur,Addition,April,180.0
+48,48,Akbarpur,Addition,May,131.0
+49,49,Akbarpur,Deletion,March,82.0
+50,50,Akbarpur,Deletion,April,96.0
+51,51,Akbarpur,Deletion,May,63.0
+52,52,Akbarpur,Modification,March,171.0
+53,53,Akbarpur,Modification,April,234.0
+54,54,Akbarpur,Modification,May,155.0
+55,55,Akbarpur - Raniya,Addition,March,95.0
+56,56,Akbarpur - Raniya,Addition,April,60.0
+57,57,Akbarpur - Raniya,Addition,May,80.0
+58,58,Akbarpur - Raniya,Deletion,March,6.0
+59,59,Akbarpur - Raniya,Deletion,April,11.0
+60,60,Akbarpur - Raniya,Deletion,May,18.0
+61,61,Akbarpur - Raniya,Modification,March,59.0
+62,62,Akbarpur - Raniya,Modification,April,50.0
+63,63,Akbarpur - Raniya,Modification,May,59.0
+64,64,Alapur,Addition,March,257.0
+65,65,Alapur,Addition,April,243.0
+66,66,Alapur,Addition,May,251.0
+67,67,Alapur,Deletion,March,34.0
+68,68,Alapur,Deletion,April,47.0
+69,69,Alapur,Deletion,May,11.0
+70,70,Alapur,Modification,March,222.0
+71,71,Alapur,Modification,April,230.0
+72,72,Alapur,Modification,May,190.0
+73,73,Aliganj,Addition,March,52.0
+74,74,Aliganj,Addition,April,63.0
+75,75,Aliganj,Addition,May,64.0
+76,76,Aliganj,Deletion,March,47.0
+77,77,Aliganj,Deletion,April,58.0
+78,78,Aliganj,Deletion,May,5.0
+79,79,Aliganj,Modification,March,59.0
+80,80,Aliganj,Modification,April,54.0
+81,81,Aliganj,Modification,May,58.0
+82,82,Aligarh,Addition,March,274.0
+83,83,Aligarh,Addition,April,108.0
+84,84,Aligarh,Addition,May,111.0
+85,85,Aligarh,Deletion,March,45.0
+86,86,Aligarh,Deletion,April,96.0
+87,87,Aligarh,Deletion,May,25.0
+88,88,Aligarh,Modification,March,341.0
+89,89,Aligarh,Modification,April,126.0
+90,90,Aligarh,Modification,May,107.0
+91,91,Allahabad North,Addition,March,107.0
+92,92,Allahabad North,Addition,April,111.0
+93,93,Allahabad North,Addition,May,124.0
+94,94,Allahabad North,Deletion,March,32.0
+95,95,Allahabad North,Deletion,April,131.0
+96,96,Allahabad North,Deletion,May,9.0
+97,97,Allahabad North,Modification,March,63.0
+98,98,Allahabad North,Modification,April,87.0
+99,99,Allahabad North,Modification,May,100.0
+100,100,Allahabad South,Addition,March,171.0
+101,101,Allahabad South,Addition,April,223.0
+102,102,Allahabad South,Addition,May,294.0
+103,103,Allahabad South,Deletion,March,15.0
+104,104,Allahabad South,Deletion,April,76.0
+105,105,Allahabad South,Deletion,May,23.0
+106,106,Allahabad South,Modification,March,48.0
+107,107,Allahabad South,Modification,April,42.0
+108,108,Allahabad South,Modification,May,65.0
+109,109,Allahabad West,Addition,March,249.0
+110,110,Allahabad West,Addition,April,256.0
+111,111,Allahabad West,Addition,May,310.0
+112,112,Allahabad West,Deletion,March,19.0
+113,113,Allahabad West,Deletion,April,120.0
+114,114,Allahabad West,Deletion,May,36.0
+115,115,Allahabad West,Modification,March,76.0
+116,116,Allahabad West,Modification,April,137.0
+117,117,Allahabad West,Modification,May,109.0
+118,118,Amanpur,Addition,March,236.0
+119,119,Amanpur,Addition,April,127.0
+120,120,Amanpur,Addition,May,218.0
+121,121,Amanpur,Deletion,March,22.0
+122,122,Amanpur,Deletion,April,23.0
+123,123,Amanpur,Deletion,May,58.0
+124,124,Amanpur,Modification,March,147.0
+125,125,Amanpur,Modification,April,92.0
+126,126,Amanpur,Modification,May,96.0
+127,127,Amethi,Addition,March,312.0
+128,128,Amethi,Addition,April,305.0
+129,129,Amethi,Addition,May,338.0
+130,130,Amethi,Deletion,March,25.0
+131,131,Amethi,Deletion,April,35.0
+132,132,Amethi,Deletion,May,36.0
+133,133,Amethi,Modification,March,199.0
+134,134,Amethi,Modification,April,155.0
+135,135,Amethi,Modification,May,157.0
+136,136,Amritpur,Addition,March,92.0
+137,137,Amritpur,Addition,April,171.0
+138,138,Amritpur,Addition,May,229.0
+139,139,Amritpur,Deletion,March,19.0
+140,140,Amritpur,Deletion,April,47.0
+141,141,Amritpur,Deletion,May,147.0
+142,142,Amritpur,Modification,March,26.0
+143,143,Amritpur,Modification,April,45.0
+144,144,Amritpur,Modification,May,60.0
+145,145,Amroha,Addition,March,139.0
+146,146,Amroha,Addition,April,168.0
+147,147,Amroha,Addition,May,159.0
+148,148,Amroha,Deletion,March,26.0
+149,149,Amroha,Deletion,April,27.0
+150,150,Amroha,Deletion,May,15.0
+151,151,Amroha,Modification,March,190.0
+152,152,Amroha,Modification,April,194.0
+153,153,Amroha,Modification,May,217.0
+154,154,Anupshahr,Addition,March,329.0
+155,155,Anupshahr,Addition,April,115.0
+156,156,Anupshahr,Addition,May,104.0
+157,157,Anupshahr,Deletion,March,50.0
+158,158,Anupshahr,Deletion,April,78.0
+159,159,Anupshahr,Deletion,May,12.0
+160,160,Anupshahr,Modification,March,315.0
+161,161,Anupshahr,Modification,April,107.0
+162,162,Anupshahr,Modification,May,54.0
+163,163,Aonla,Addition,March,101.0
+164,164,Aonla,Addition,April,126.0
+165,165,Aonla,Addition,May,139.0
+166,166,Aonla,Deletion,March,51.0
+167,167,Aonla,Deletion,April,37.0
+168,168,Aonla,Deletion,May,7.0
+169,169,Aonla,Modification,March,115.0
+170,170,Aonla,Modification,April,79.0
+171,171,Aonla,Modification,May,121.0
+172,172,Arya Nagar,Addition,March,223.0
+173,173,Arya Nagar,Addition,April,128.0
+174,174,Arya Nagar,Addition,May,142.0
+175,175,Arya Nagar,Deletion,March,46.0
+176,176,Arya Nagar,Deletion,April,101.0
+177,177,Arya Nagar,Deletion,May,23.0
+178,178,Arya Nagar,Modification,March,174.0
+179,179,Arya Nagar,Modification,April,122.0
+180,180,Arya Nagar,Modification,May,143.0
+181,181,Asmoli,Addition,March,185.0
+182,182,Asmoli,Addition,April,64.0
+183,183,Asmoli,Addition,May,89.0
+184,184,Asmoli,Deletion,March,31.0
+185,185,Asmoli,Deletion,April,18.0
+186,186,Asmoli,Deletion,May,16.0
+187,187,Asmoli,Modification,March,233.0
+188,188,Asmoli,Modification,April,36.0
+189,189,Asmoli,Modification,May,34.0
+190,190,Atrauli,Addition,March,249.0
+191,191,Atrauli,Addition,April,191.0
+192,192,Atrauli,Addition,May,324.0
+193,193,Atrauli,Deletion,March,17.0
+194,194,Atrauli,Deletion,April,59.0
+195,195,Atrauli,Deletion,May,67.0
+196,196,Atrauli,Modification,March,119.0
+197,197,Atrauli,Modification,April,74.0
+198,198,Atrauli,Modification,May,111.0
+199,199,Atrauliya,Addition,March,274.0
+200,200,Atrauliya,Addition,April,233.0
+201,201,Atrauliya,Addition,May,187.0
+202,202,Atrauliya,Deletion,March,37.0
+203,203,Atrauliya,Deletion,April,29.0
+204,204,Atrauliya,Deletion,May,3.0
+205,205,Atrauliya,Modification,March,207.0
+206,206,Atrauliya,Modification,April,192.0
+207,207,Atrauliya,Modification,May,169.0
+208,208,Aurai,Addition,March,355.0
+209,209,Aurai,Addition,April,309.0
+210,210,Aurai,Addition,May,316.0
+211,211,Aurai,Deletion,March,15.0
+212,212,Aurai,Deletion,April,21.0
+213,213,Aurai,Deletion,May,11.0
+214,214,Aurai,Modification,March,159.0
+215,215,Aurai,Modification,April,179.0
+216,216,Aurai,Modification,May,162.0
+217,217,Auraiya,Addition,March,92.0
+218,218,Auraiya,Addition,April,77.0
+219,219,Auraiya,Addition,May,70.0
+220,220,Auraiya,Deletion,March,21.0
+221,221,Auraiya,Deletion,April,50.0
+222,222,Auraiya,Deletion,May,11.0
+223,223,Auraiya,Modification,March,71.0
+224,224,Auraiya,Modification,April,56.0
+225,225,Auraiya,Modification,May,58.0
+226,226,Ayah Shah,Addition,March,185.0
+227,227,Ayah Shah,Addition,April,140.0
+228,228,Ayah Shah,Addition,May,125.0
+229,229,Ayah Shah,Deletion,March,10.0
+230,230,Ayah Shah,Deletion,April,18.0
+231,231,Ayah Shah,Deletion,May,26.0
+232,232,Ayah Shah,Modification,March,43.0
+233,233,Ayah Shah,Modification,April,40.0
+234,234,Ayah Shah,Modification,May,60.0
+235,235,Ayodhya,Addition,March,285.0
+236,236,Ayodhya,Addition,April,261.0
+237,237,Ayodhya,Addition,May,276.0
+238,238,Ayodhya,Deletion,March,14.0
+239,239,Ayodhya,Deletion,April,50.0
+240,240,Ayodhya,Deletion,May,9.0
+241,241,Ayodhya,Modification,March,160.0
+242,242,Ayodhya,Modification,April,195.0
+243,243,Ayodhya,Modification,May,165.0
+244,244,Azamgarh,Addition,March,135.0
+245,245,Azamgarh,Addition,April,140.0
+246,246,Azamgarh,Addition,May,99.0
+247,247,Azamgarh,Deletion,March,20.0
+248,248,Azamgarh,Deletion,April,40.0
+249,249,Azamgarh,Deletion,May,21.0
+250,250,Azamgarh,Modification,March,154.0
+251,251,Azamgarh,Modification,April,165.0
+252,252,Azamgarh,Modification,May,142.0
+253,253,Babaganj,Addition,March,317.0
+254,254,Babaganj,Addition,April,196.0
+255,255,Babaganj,Addition,May,245.0
+256,256,Babaganj,Deletion,March,23.0
+257,257,Babaganj,Deletion,April,32.0
+258,258,Babaganj,Deletion,May,10.0
+259,259,Babaganj,Modification,March,116.0
+260,260,Babaganj,Modification,April,88.0
+261,261,Babaganj,Modification,May,103.0
+262,262,Baberu,Addition,March,146.0
+263,263,Baberu,Addition,April,167.0
+264,264,Baberu,Addition,May,167.0
+265,265,Baberu,Deletion,March,21.0
+266,266,Baberu,Deletion,April,42.0
+267,267,Baberu,Deletion,May,7.0
+268,268,Baberu,Modification,March,114.0
+269,269,Baberu,Modification,April,123.0
+270,270,Baberu,Modification,May,89.0
+271,271,Babina,Addition,March,502.0
+272,272,Babina,Addition,April,346.0
+273,273,Babina,Addition,May,287.0
+274,274,Babina,Deletion,March,22.0
+275,275,Babina,Deletion,April,58.0
+276,276,Babina,Deletion,May,21.0
+277,277,Babina,Modification,March,219.0
+278,278,Babina,Modification,April,146.0
+279,279,Babina,Modification,May,152.0
+280,280,Bachhrawan,Addition,March,96.0
+281,281,Bachhrawan,Addition,April,61.0
+282,282,Bachhrawan,Addition,May,157.0
+283,283,Bachhrawan,Deletion,March,25.0
+284,284,Bachhrawan,Deletion,April,24.0
+285,285,Bachhrawan,Deletion,May,36.0
+286,286,Bachhrawan,Modification,March,52.0
+287,287,Bachhrawan,Modification,April,41.0
+288,288,Bachhrawan,Modification,May,35.0
+289,289,Badaun,Addition,March,307.0
+290,290,Badaun,Addition,April,304.0
+291,291,Badaun,Addition,May,219.0
+292,292,Badaun,Deletion,March,357.0
+293,293,Badaun,Deletion,April,90.0
+294,294,Badaun,Deletion,May,20.0
+295,295,Badaun,Modification,March,264.0
+296,296,Badaun,Modification,April,187.0
+297,297,Badaun,Modification,May,171.0
+298,298,Badlapur,Addition,March,189.0
+299,299,Badlapur,Addition,April,181.0
+300,300,Badlapur,Addition,May,103.0
+301,301,Badlapur,Deletion,March,30.0
+302,302,Badlapur,Deletion,April,41.0
+303,303,Badlapur,Deletion,May,22.0
+304,304,Badlapur,Modification,March,99.0
+305,305,Badlapur,Modification,April,135.0
+306,306,Badlapur,Modification,May,77.0
+307,307,Baghpat,Addition,March,154.0
+308,308,Baghpat,Addition,April,434.0
+309,309,Baghpat,Addition,May,69.0
+310,310,Baghpat,Deletion,March,41.0
+311,311,Baghpat,Deletion,April,124.0
+312,312,Baghpat,Deletion,May,6.0
+313,313,Baghpat,Modification,March,206.0
+314,314,Baghpat,Modification,April,479.0
+315,315,Baghpat,Modification,May,62.0
+316,316,Bah,Addition,March,211.0
+317,317,Bah,Addition,April,297.0
+318,318,Bah,Addition,May,271.0
+319,319,Bah,Deletion,March,25.0
+320,320,Bah,Deletion,April,74.0
+321,321,Bah,Deletion,May,29.0
+322,322,Bah,Modification,March,73.0
+323,323,Bah,Modification,April,164.0
+324,324,Bah,Modification,May,124.0
+325,325,Baheri,Addition,March,275.0
+326,326,Baheri,Addition,April,258.0
+327,327,Baheri,Addition,May,275.0
+328,328,Baheri,Deletion,March,39.0
+329,329,Baheri,Deletion,April,96.0
+330,330,Baheri,Deletion,May,17.0
+331,331,Baheri,Modification,March,177.0
+332,332,Baheri,Modification,April,248.0
+333,333,Baheri,Modification,May,208.0
+334,334,Bahraich,Addition,March,521.0
+335,335,Bahraich,Addition,April,443.0
+336,336,Bahraich,Addition,May,408.0
+337,337,Bahraich,Deletion,March,24.0
+338,338,Bahraich,Deletion,April,60.0
+339,339,Bahraich,Deletion,May,27.0
+340,340,Bahraich,Modification,March,269.0
+341,341,Bahraich,Modification,April,234.0
+342,342,Bahraich,Modification,May,232.0
+343,343,Bairia,Addition,March,252.0
+344,344,Bairia,Addition,April,232.0
+345,345,Bairia,Addition,May,185.0
+346,346,Bairia,Deletion,March,20.0
+347,347,Bairia,Deletion,April,70.0
+348,348,Bairia,Deletion,May,6.0
+349,349,Bairia,Modification,March,125.0
+350,350,Bairia,Modification,April,113.0
+351,351,Bairia,Modification,May,95.0
+352,352,Bakshi Kaa Talab,Addition,March,253.0
+353,353,Bakshi Kaa Talab,Addition,April,249.0
+354,354,Bakshi Kaa Talab,Addition,May,274.0
+355,355,Bakshi Kaa Talab,Deletion,March,119.0
+356,356,Bakshi Kaa Talab,Deletion,April,119.0
+357,357,Bakshi Kaa Talab,Deletion,May,24.0
+358,358,Bakshi Kaa Talab,Modification,March,148.0
+359,359,Bakshi Kaa Talab,Modification,April,142.0
+360,360,Bakshi Kaa Talab,Modification,May,124.0
+361,361,Balamau,Addition,March,126.0
+362,362,Balamau,Addition,April,68.0
+363,363,Balamau,Addition,May,69.0
+364,364,Balamau,Deletion,March,18.0
+365,365,Balamau,Deletion,April,10.0
+366,366,Balamau,Deletion,May,2.0
+367,367,Balamau,Modification,March,171.0
+368,368,Balamau,Modification,April,68.0
+369,369,Balamau,Modification,May,59.0
+370,370,Baldev,Addition,March,195.0
+371,371,Baldev,Addition,April,149.0
+372,372,Baldev,Addition,May,146.0
+373,373,Baldev,Deletion,March,17.0
+374,374,Baldev,Deletion,April,26.0
+375,375,Baldev,Deletion,May,8.0
+376,376,Baldev,Modification,March,137.0
+377,377,Baldev,Modification,April,154.0
+378,378,Baldev,Modification,May,138.0
+379,379,Balha,Addition,March,196.0
+380,380,Balha,Addition,April,146.0
+381,381,Balha,Addition,May,102.0
+382,382,Balha,Deletion,March,9.0
+383,383,Balha,Deletion,April,18.0
+384,384,Balha,Deletion,May,4.0
+385,385,Balha,Modification,March,152.0
+386,386,Balha,Modification,April,119.0
+387,387,Balha,Modification,May,102.0
+388,388,Ballia Nagar,Addition,March,232.0
+389,389,Ballia Nagar,Addition,April,159.0
+390,390,Ballia Nagar,Addition,May,195.0
+391,391,Ballia Nagar,Deletion,March,37.0
+392,392,Ballia Nagar,Deletion,April,51.0
+393,393,Ballia Nagar,Deletion,May,36.0
+394,394,Ballia Nagar,Modification,March,97.0
+395,395,Ballia Nagar,Modification,April,109.0
+396,396,Ballia Nagar,Modification,May,68.0
+397,397,Balrampur,Addition,March,417.0
+398,398,Balrampur,Addition,April,308.0
+399,399,Balrampur,Addition,May,244.0
+400,400,Balrampur,Deletion,March,12.0
+401,401,Balrampur,Deletion,April,31.0
+402,402,Balrampur,Deletion,May,14.0
+403,403,Balrampur,Modification,March,194.0
+404,404,Balrampur,Modification,April,210.0
+405,405,Balrampur,Modification,May,137.0
+406,406,Banda,Addition,March,249.0
+407,407,Banda,Addition,April,245.0
+408,408,Banda,Addition,May,132.0
+409,409,Banda,Deletion,March,16.0
+410,410,Banda,Deletion,April,50.0
+411,411,Banda,Deletion,May,16.0
+412,412,Banda,Modification,March,171.0
+413,413,Banda,Modification,April,182.0
+414,414,Banda,Modification,May,87.0
+415,415,Bangermau,Addition,March,136.0
+416,416,Bangermau,Addition,April,84.0
+417,417,Bangermau,Addition,May,89.0
+418,418,Bangermau,Deletion,March,14.0
+419,419,Bangermau,Deletion,April,66.0
+420,420,Bangermau,Deletion,May,5.0
+421,421,Bangermau,Modification,March,118.0
+422,422,Bangermau,Modification,April,92.0
+423,423,Bangermau,Modification,May,48.0
+424,424,Bansdih,Addition,March,295.0
+425,425,Bansdih,Addition,April,288.0
+426,426,Bansdih,Addition,May,241.0
+427,427,Bansdih,Deletion,March,47.0
+428,428,Bansdih,Deletion,April,77.0
+429,429,Bansdih,Deletion,May,18.0
+430,430,Bansdih,Modification,March,131.0
+431,431,Bansdih,Modification,April,188.0
+432,432,Bansdih,Modification,May,119.0
+433,433,Bansgaon,Addition,March,234.0
+434,434,Bansgaon,Addition,April,379.0
+435,435,Bansgaon,Addition,May,176.0
+436,436,Bansgaon,Deletion,March,11.0
+437,437,Bansgaon,Deletion,April,124.0
+438,438,Bansgaon,Deletion,May,22.0
+439,439,Bansgaon,Modification,March,171.0
+440,440,Bansgaon,Modification,April,178.0
+441,441,Bansgaon,Modification,May,128.0
+442,442,Bansi,Addition,March,342.0
+443,443,Bansi,Addition,April,237.0
+444,444,Bansi,Addition,May,233.0
+445,445,Bansi,Deletion,March,37.0
+446,446,Bansi,Deletion,April,29.0
+447,447,Bansi,Deletion,May,7.0
+448,448,Bansi,Modification,March,489.0
+449,449,Bansi,Modification,April,218.0
+450,450,Bansi,Modification,May,185.0
+451,451,Bara,Addition,March,340.0
+452,452,Bara,Addition,April,311.0
+453,453,Bara,Addition,May,139.0
+454,454,Bara,Deletion,March,6.0
+455,455,Bara,Deletion,April,15.0
+456,456,Bara,Deletion,May,8.0
+457,457,Bara,Modification,March,159.0
+458,458,Bara,Modification,April,147.0
+459,459,Bara,Modification,May,115.0
+460,460,Barabanki,Addition,March,92.0
+461,461,Barabanki,Addition,April,84.0
+462,462,Barabanki,Addition,May,75.0
+463,463,Barabanki,Deletion,March,7.0
+464,464,Barabanki,Deletion,April,19.0
+465,465,Barabanki,Deletion,May,9.0
+466,466,Barabanki,Modification,March,97.0
+467,467,Barabanki,Modification,April,104.0
+468,468,Barabanki,Modification,May,66.0
+469,469,Barauli,Addition,March,228.0
+470,470,Barauli,Addition,April,226.0
+471,471,Barauli,Addition,May,568.0
+472,472,Barauli,Deletion,March,27.0
+473,473,Barauli,Deletion,April,114.0
+474,474,Barauli,Deletion,May,285.0
+475,475,Barauli,Modification,March,179.0
+476,476,Barauli,Modification,April,169.0
+477,477,Barauli,Modification,May,234.0
+478,478,Baraut,Addition,March,316.0
+479,479,Baraut,Addition,April,150.0
+480,480,Baraut,Addition,May,185.0
+481,481,Baraut,Deletion,March,40.0
+482,482,Baraut,Deletion,April,68.0
+483,483,Baraut,Deletion,May,15.0
+484,484,Baraut,Modification,March,342.0
+485,485,Baraut,Modification,April,180.0
+486,486,Baraut,Modification,May,154.0
+487,487,Bareilly,Addition,March,485.0
+488,488,Bareilly,Addition,April,443.0
+489,489,Bareilly,Addition,May,497.0
+490,490,Bareilly,Deletion,March,75.0
+491,491,Bareilly,Deletion,April,149.0
+492,492,Bareilly,Deletion,May,22.0
+493,493,Bareilly,Modification,March,247.0
+494,494,Bareilly,Modification,April,288.0
+495,495,Bareilly,Modification,May,239.0
+496,496,Bareilly Cantt,Addition,March,220.0
+497,497,Bareilly Cantt,Addition,April,272.0
+498,498,Bareilly Cantt,Addition,May,224.0
+499,499,Bareilly Cantt,Deletion,March,12.0
+500,500,Bareilly Cantt,Deletion,April,64.0
+501,501,Bareilly Cantt,Deletion,May,13.0
+502,502,Bareilly Cantt,Modification,March,183.0
+503,503,Bareilly Cantt,Modification,April,263.0
+504,504,Bareilly Cantt,Modification,May,194.0
+505,505,Barhaj,Addition,March,393.0
+506,506,Barhaj,Addition,April,242.0
+507,507,Barhaj,Addition,May,295.0
+508,508,Barhaj,Deletion,March,17.0
+509,509,Barhaj,Deletion,April,47.0
+510,510,Barhaj,Deletion,May,16.0
+511,511,Barhaj,Modification,March,267.0
+512,512,Barhaj,Modification,April,242.0
+513,513,Barhaj,Modification,May,191.0
+514,514,Barhapur,Addition,March,138.0
+515,515,Barhapur,Addition,April,111.0
+516,516,Barhapur,Addition,May,121.0
+517,517,Barhapur,Deletion,March,56.0
+518,518,Barhapur,Deletion,April,78.0
+519,519,Barhapur,Deletion,May,58.0
+520,520,Barhapur,Modification,March,134.0
+521,521,Barhapur,Modification,April,129.0
+522,522,Barhapur,Modification,May,242.0
+523,523,Barkhera,Addition,March,70.0
+524,524,Barkhera,Addition,April,78.0
+525,525,Barkhera,Addition,May,37.0
+526,526,Barkhera,Deletion,March,6.0
+527,527,Barkhera,Deletion,April,7.0
+528,528,Barkhera,Deletion,May,74.0
+529,529,Barkhera,Modification,March,63.0
+530,530,Barkhera,Modification,April,72.0
+531,531,Barkhera,Modification,May,53.0
+532,532,Basti Sadar,Addition,March,143.0
+533,533,Basti Sadar,Addition,April,121.0
+534,534,Basti Sadar,Addition,May,109.0
+535,535,Basti Sadar,Deletion,March,16.0
+536,536,Basti Sadar,Deletion,April,27.0
+537,537,Basti Sadar,Deletion,May,7.0
+538,538,Basti Sadar,Modification,March,152.0
+539,539,Basti Sadar,Modification,April,173.0
+540,540,Basti Sadar,Modification,May,181.0
+541,541,Behat,Addition,March,423.0
+542,542,Behat,Addition,April,390.0
+543,543,Behat,Addition,May,407.0
+544,544,Behat,Deletion,March,38.0
+545,545,Behat,Deletion,April,55.0
+546,546,Behat,Deletion,May,44.0
+547,547,Behat,Modification,March,230.0
+548,548,Behat,Modification,April,240.0
+549,549,Behat,Modification,May,244.0
+550,550,Belthara Road,Addition,March,358.0
+551,551,Belthara Road,Addition,April,211.0
+552,552,Belthara Road,Addition,May,142.0
+553,553,Belthara Road,Deletion,March,14.0
+554,554,Belthara Road,Deletion,April,72.0
+555,555,Belthara Road,Deletion,May,3.0
+556,556,Belthara Road,Modification,March,199.0
+557,557,Belthara Road,Modification,April,140.0
+558,558,Belthara Road,Modification,May,162.0
+559,559,Bhadohi,Addition,March,504.0
+560,560,Bhadohi,Addition,April,481.0
+561,561,Bhadohi,Addition,May,528.0
+562,562,Bhadohi,Deletion,March,84.0
+563,563,Bhadohi,Deletion,April,46.0
+564,564,Bhadohi,Deletion,May,27.0
+565,565,Bhadohi,Modification,March,233.0
+566,566,Bhadohi,Modification,April,206.0
+567,567,Bhadohi,Modification,May,212.0
+568,568,Bhagwantnagar,Addition,March,179.0
+569,569,Bhagwantnagar,Addition,April,160.0
+570,570,Bhagwantnagar,Addition,May,150.0
+571,571,Bhagwantnagar,Deletion,March,12.0
+572,572,Bhagwantnagar,Deletion,April,48.0
+573,573,Bhagwantnagar,Deletion,May,2.0
+574,574,Bhagwantnagar,Modification,March,92.0
+575,575,Bhagwantnagar,Modification,April,93.0
+576,576,Bhagwantnagar,Modification,May,75.0
+577,577,Bharthana,Addition,March,107.0
+578,578,Bharthana,Addition,April,84.0
+579,579,Bharthana,Addition,May,121.0
+580,580,Bharthana,Deletion,March,21.0
+581,581,Bharthana,Deletion,April,51.0
+582,582,Bharthana,Deletion,May,621.0
+583,583,Bharthana,Modification,March,301.0
+584,584,Bharthana,Modification,April,138.0
+585,585,Bharthana,Modification,May,119.0
+586,586,Bhatpar Rani,Addition,March,302.0
+587,587,Bhatpar Rani,Addition,April,147.0
+588,588,Bhatpar Rani,Addition,May,132.0
+589,589,Bhatpar Rani,Deletion,March,26.0
+590,590,Bhatpar Rani,Deletion,April,35.0
+591,591,Bhatpar Rani,Deletion,May,5.0
+592,592,Bhatpar Rani,Modification,March,163.0
+593,593,Bhatpar Rani,Modification,April,159.0
+594,594,Bhatpar Rani,Modification,May,141.0
+595,595,Bhinga,Addition,March,266.0
+596,596,Bhinga,Addition,April,219.0
+597,597,Bhinga,Addition,May,217.0
+598,598,Bhinga,Deletion,March,23.0
+599,599,Bhinga,Deletion,April,6.0
+600,600,Bhinga,Deletion,May,13.0
+601,601,Bhinga,Modification,March,170.0
+602,602,Bhinga,Modification,April,165.0
+603,603,Bhinga,Modification,May,105.0
+604,604,Bhognipur,Addition,March,94.0
+605,605,Bhognipur,Addition,April,47.0
+606,606,Bhognipur,Addition,May,56.0
+607,607,Bhognipur,Deletion,March,6.0
+608,608,Bhognipur,Deletion,April,16.0
+609,609,Bhognipur,Deletion,May,10.0
+610,610,Bhognipur,Modification,March,133.0
+611,611,Bhognipur,Modification,April,45.0
+612,612,Bhognipur,Modification,May,43.0
+613,613,Bhojipura,Addition,March,397.0
+614,614,Bhojipura,Addition,April,338.0
+615,615,Bhojipura,Addition,May,309.0
+616,616,Bhojipura,Deletion,March,11.0
+617,617,Bhojipura,Deletion,April,40.0
+618,618,Bhojipura,Deletion,May,7.0
+619,619,Bhojipura,Modification,March,137.0
+620,620,Bhojipura,Modification,April,162.0
+621,621,Bhojipura,Modification,May,161.0
+622,622,Bhojpur,Addition,March,90.0
+623,623,Bhojpur,Addition,April,98.0
+624,624,Bhojpur,Addition,May,130.0
+625,625,Bhojpur,Deletion,March,12.0
+626,626,Bhojpur,Deletion,April,22.0
+627,627,Bhojpur,Deletion,May,3.0
+628,628,Bhojpur,Modification,March,94.0
+629,629,Bhojpur,Modification,April,65.0
+630,630,Bhojpur,Modification,May,77.0
+631,631,Bhongaon,Addition,March,130.0
+632,632,Bhongaon,Addition,April,118.0
+633,633,Bhongaon,Addition,May,148.0
+634,634,Bhongaon,Deletion,March,34.0
+635,635,Bhongaon,Deletion,April,38.0
+636,636,Bhongaon,Deletion,May,31.0
+637,637,Bhongaon,Modification,March,88.0
+638,638,Bhongaon,Modification,April,73.0
+639,639,Bhongaon,Modification,May,78.0
+640,640,Bidhuna,Addition,March,110.0
+641,641,Bidhuna,Addition,April,60.0
+642,642,Bidhuna,Addition,May,80.0
+643,643,Bidhuna,Deletion,March,19.0
+644,644,Bidhuna,Deletion,April,42.0
+645,645,Bidhuna,Deletion,May,11.0
+646,646,Bidhuna,Modification,March,66.0
+647,647,Bidhuna,Modification,April,60.0
+648,648,Bidhuna,Modification,May,60.0
+649,649,Bijnor,Addition,March,351.0
+650,650,Bijnor,Addition,April,247.0
+651,651,Bijnor,Addition,May,206.0
+652,652,Bijnor,Deletion,March,65.0
+653,653,Bijnor,Deletion,April,96.0
+654,654,Bijnor,Deletion,May,32.0
+655,655,Bijnor,Modification,March,277.0
+656,656,Bijnor,Modification,April,178.0
+657,657,Bijnor,Modification,May,133.0
+658,658,Bikapur,Addition,March,218.0
+659,659,Bikapur,Addition,April,167.0
+660,660,Bikapur,Addition,May,178.0
+661,661,Bikapur,Deletion,March,25.0
+662,662,Bikapur,Deletion,April,20.0
+663,663,Bikapur,Deletion,May,5.0
+664,664,Bikapur,Modification,March,153.0
+665,665,Bikapur,Modification,April,119.0
+666,666,Bikapur,Modification,May,141.0
+667,667,Bilari,Addition,March,740.0
+668,668,Bilari,Addition,April,213.0
+669,669,Bilari,Addition,May,325.0
+670,670,Bilari,Deletion,March,44.0
+671,671,Bilari,Deletion,April,47.0
+672,672,Bilari,Deletion,May,15.0
+673,673,Bilari,Modification,March,310.0
+674,674,Bilari,Modification,April,187.0
+675,675,Bilari,Modification,May,164.0
+676,676,Bilaspur,Addition,March,485.0
+677,677,Bilaspur,Addition,April,268.0
+678,678,Bilaspur,Addition,May,225.0
+679,679,Bilaspur,Deletion,March,1812.0
+680,680,Bilaspur,Deletion,April,41.0
+681,681,Bilaspur,Deletion,May,153.0
+682,682,Bilaspur,Modification,March,532.0
+683,683,Bilaspur,Modification,April,218.0
+684,684,Bilaspur,Modification,May,146.0
+685,685,Bilgram-Mallanwan,Addition,March,93.0
+686,686,Bilgram-Mallanwan,Addition,April,65.0
+687,687,Bilgram-Mallanwan,Addition,May,62.0
+688,688,Bilgram-Mallanwan,Deletion,March,12.0
+689,689,Bilgram-Mallanwan,Deletion,April,32.0
+690,690,Bilgram-Mallanwan,Deletion,May,7.0
+691,691,Bilgram-Mallanwan,Modification,March,130.0
+692,692,Bilgram-Mallanwan,Modification,April,97.0
+693,693,Bilgram-Mallanwan,Modification,May,111.0
+694,694,Bilhaur,Addition,March,212.0
+695,695,Bilhaur,Addition,April,103.0
+696,696,Bilhaur,Addition,May,344.0
+697,697,Bilhaur,Deletion,March,9.0
+698,698,Bilhaur,Deletion,April,10.0
+699,699,Bilhaur,Deletion,May,5.0
+700,700,Bilhaur,Modification,March,80.0
+701,701,Bilhaur,Modification,April,129.0
+702,702,Bilhaur,Modification,May,77.0
+703,703,Bilsi,Addition,March,215.0
+704,704,Bilsi,Addition,April,225.0
+705,705,Bilsi,Addition,May,213.0
+706,706,Bilsi,Deletion,March,27.0
+707,707,Bilsi,Deletion,April,38.0
+708,708,Bilsi,Deletion,May,6.0
+709,709,Bilsi,Modification,March,137.0
+710,710,Bilsi,Modification,April,130.0
+711,711,Bilsi,Modification,May,93.0
+712,712,Bindki,Addition,March,199.0
+713,713,Bindki,Addition,April,141.0
+714,714,Bindki,Addition,May,205.0
+715,715,Bindki,Deletion,March,7.0
+716,716,Bindki,Deletion,April,15.0
+717,717,Bindki,Deletion,May,29.0
+718,718,Bindki,Modification,March,87.0
+719,719,Bindki,Modification,April,87.0
+720,720,Bindki,Modification,May,83.0
+721,721,Bisalpur,Addition,March,101.0
+722,722,Bisalpur,Addition,April,84.0
+723,723,Bisalpur,Addition,May,68.0
+724,724,Bisalpur,Deletion,March,31.0
+725,725,Bisalpur,Deletion,April,29.0
+726,726,Bisalpur,Deletion,May,24.0
+727,727,Bisalpur,Modification,March,72.0
+728,728,Bisalpur,Modification,April,80.0
+729,729,Bisalpur,Modification,May,53.0
+730,730,Bisauli,Addition,March,330.0
+731,731,Bisauli,Addition,April,337.0
+732,732,Bisauli,Addition,May,321.0
+733,733,Bisauli,Deletion,March,29.0
+734,734,Bisauli,Deletion,April,37.0
+735,735,Bisauli,Deletion,May,23.0
+736,736,Bisauli,Modification,March,165.0
+737,737,Bisauli,Modification,April,155.0
+738,738,Bisauli,Modification,May,169.0
+739,739,Bishwavnathganj,Addition,March,346.0
+740,740,Bishwavnathganj,Addition,April,241.0
+741,741,Bishwavnathganj,Addition,May,237.0
+742,742,Bishwavnathganj,Deletion,March,27.0
+743,743,Bishwavnathganj,Deletion,April,42.0
+744,744,Bishwavnathganj,Deletion,May,11.0
+745,745,Bishwavnathganj,Modification,March,213.0
+746,746,Bishwavnathganj,Modification,April,171.0
+747,747,Bishwavnathganj,Modification,May,158.0
+748,748,Biswan,Addition,March,173.0
+749,749,Biswan,Addition,April,169.0
+750,750,Biswan,Addition,May,118.0
+751,751,Biswan,Deletion,March,7.0
+752,752,Biswan,Deletion,April,15.0
+753,753,Biswan,Deletion,May,3.0
+754,754,Biswan,Modification,March,100.0
+755,755,Biswan,Modification,April,96.0
+756,756,Biswan,Modification,May,71.0
+757,757,Bithari Chainpur,Addition,March,390.0
+758,758,Bithari Chainpur,Addition,April,436.0
+759,759,Bithari Chainpur,Addition,May,426.0
+760,760,Bithari Chainpur,Deletion,March,30.0
+761,761,Bithari Chainpur,Deletion,April,67.0
+762,762,Bithari Chainpur,Deletion,May,8.0
+763,763,Bithari Chainpur,Modification,March,179.0
+764,764,Bithari Chainpur,Modification,April,147.0
+765,765,Bithari Chainpur,Modification,May,159.0
+766,766,Bithoor,Addition,March,142.0
+767,767,Bithoor,Addition,April,144.0
+768,768,Bithoor,Addition,May,139.0
+769,769,Bithoor,Deletion,March,5.0
+770,770,Bithoor,Deletion,April,22.0
+771,771,Bithoor,Deletion,May,7.0
+772,772,Bithoor,Modification,March,70.0
+773,773,Bithoor,Modification,April,44.0
+774,774,Bithoor,Modification,May,44.0
+775,775,Budhana,Addition,March,264.0
+776,776,Budhana,Addition,April,174.0
+777,777,Budhana,Addition,May,162.0
+778,778,Budhana,Deletion,March,38.0
+779,779,Budhana,Deletion,April,59.0
+780,780,Budhana,Deletion,May,25.0
+781,781,Budhana,Modification,March,249.0
+782,782,Budhana,Modification,April,231.0
+783,783,Budhana,Modification,May,197.0
+784,784,Bulandshahr,Addition,March,160.0
+785,785,Bulandshahr,Addition,April,134.0
+786,786,Bulandshahr,Addition,May,141.0
+787,787,Bulandshahr,Deletion,March,20.0
+788,788,Bulandshahr,Deletion,April,100.0
+789,789,Bulandshahr,Deletion,May,16.0
+790,790,Bulandshahr,Modification,March,175.0
+791,791,Bulandshahr,Modification,April,97.0
+792,792,Bulandshahr,Modification,May,176.0
+793,793,Caimpiyarganj,Addition,March,149.0
+794,794,Caimpiyarganj,Addition,April,318.0
+795,795,Caimpiyarganj,Addition,May,200.0
+796,796,Caimpiyarganj,Deletion,March,6.0
+797,797,Caimpiyarganj,Deletion,April,31.0
+798,798,Caimpiyarganj,Deletion,May,8.0
+799,799,Caimpiyarganj,Modification,March,116.0
+800,800,Caimpiyarganj,Modification,April,158.0
+801,801,Caimpiyarganj,Modification,May,137.0
+802,802,Chail,Addition,March,572.0
+803,803,Chail,Addition,April,283.0
+804,804,Chail,Addition,May,135.0
+805,805,Chail,Deletion,March,10.0
+806,806,Chail,Deletion,April,28.0
+807,807,Chail,Deletion,May,6.0
+808,808,Chail,Modification,March,146.0
+809,809,Chail,Modification,April,191.0
+810,810,Chail,Modification,May,192.0
+811,811,Chakia,Addition,March,327.0
+812,812,Chakia,Addition,April,347.0
+813,813,Chakia,Addition,May,473.0
+814,814,Chakia,Deletion,March,34.0
+815,815,Chakia,Deletion,April,22.0
+816,816,Chakia,Deletion,May,24.0
+817,817,Chakia,Modification,March,174.0
+818,818,Chakia,Modification,April,164.0
+819,819,Chakia,Modification,May,210.0
+820,820,Chamraua,Addition,March,289.0
+821,821,Chamraua,Addition,April,195.0
+822,822,Chamraua,Addition,May,226.0
+823,823,Chamraua,Deletion,March,10.0
+824,824,Chamraua,Deletion,April,38.0
+825,825,Chamraua,Deletion,May,22.0
+826,826,Chamraua,Modification,March,142.0
+827,827,Chamraua,Modification,April,125.0
+828,828,Chamraua,Modification,May,147.0
+829,829,Chandausi,Addition,March,128.0
+830,830,Chandausi,Addition,April,160.0
+831,831,Chandausi,Addition,May,157.0
+832,832,Chandausi,Deletion,March,22.0
+833,833,Chandausi,Deletion,April,44.0
+834,834,Chandausi,Deletion,May,9.0
+835,835,Chandausi,Modification,March,71.0
+836,836,Chandausi,Modification,April,96.0
+837,837,Chandpur,Addition,March,251.0
+838,838,Chandpur,Addition,April,209.0
+839,839,Chandpur,Addition,May,283.0
+840,840,Chandpur,Deletion,March,23.0
+841,841,Chandpur,Deletion,April,42.0
+842,842,Chandpur,Deletion,May,17.0
+843,843,Chandpur,Modification,March,183.0
+844,844,Chandpur,Modification,April,189.0
+845,845,Chandpur,Modification,May,177.0
+846,846,Charkhari,Addition,March,249.0
+847,847,Charkhari,Addition,April,277.0
+848,848,Charkhari,Addition,May,217.0
+849,849,Charkhari,Deletion,March,13.0
+850,850,Charkhari,Deletion,April,41.0
+851,851,Charkhari,Deletion,May,6.0
+852,852,Charkhari,Modification,March,225.0
+853,853,Charkhari,Modification,April,194.0
+854,854,Charkhari,Modification,May,131.0
+855,855,Charthawal,Addition,March,330.0
+856,856,Charthawal,Addition,April,190.0
+857,857,Charthawal,Addition,May,218.0
+858,858,Charthawal,Deletion,March,114.0
+859,859,Charthawal,Deletion,April,41.0
+860,860,Charthawal,Deletion,May,11.0
+861,861,Charthawal,Modification,March,247.0
+862,862,Charthawal,Modification,April,162.0
+863,863,Charthawal,Modification,May,97.0
+864,864,Chauri-Chaura,Addition,March,575.0
+865,865,Chauri-Chaura,Addition,April,225.0
+866,866,Chauri-Chaura,Addition,May,186.0
+867,867,Chauri-Chaura,Deletion,March,9.0
+868,868,Chauri-Chaura,Deletion,April,28.0
+869,869,Chauri-Chaura,Deletion,May,7.0
+870,870,Chauri-Chaura,Modification,March,404.0
+871,871,Chauri-Chaura,Modification,April,200.0
+872,872,Chauri-Chaura,Modification,May,112.0
+873,873,Chhanbey,Addition,March,346.0
+874,874,Chhanbey,Addition,April,197.0
+875,875,Chhanbey,Addition,May,157.0
+876,876,Chhanbey,Deletion,March,10.0
+877,877,Chhanbey,Deletion,April,12.0
+878,878,Chhanbey,Deletion,May,10.0
+879,879,Chhanbey,Modification,March,155.0
+880,880,Chhanbey,Modification,April,135.0
+881,881,Chhanbey,Modification,May,96.0
+882,882,Chhaprauli,Addition,March,210.0
+883,883,Chhaprauli,Addition,April,176.0
+884,884,Chhaprauli,Addition,May,153.0
+885,885,Chhaprauli,Deletion,March,33.0
+886,886,Chhaprauli,Deletion,April,45.0
+887,887,Chhaprauli,Deletion,May,21.0
+888,888,Chhaprauli,Modification,March,223.0
+889,889,Chhaprauli,Modification,April,178.0
+890,890,Chhaprauli,Modification,May,169.0
+891,891,Chharra,Addition,March,295.0
+892,892,Chharra,Addition,April,180.0
+893,893,Chharra,Addition,May,248.0
+894,894,Chharra,Deletion,March,21.0
+895,895,Chharra,Deletion,April,63.0
+896,896,Chharra,Deletion,May,56.0
+897,897,Chharra,Modification,March,216.0
+898,898,Chharra,Modification,April,107.0
+899,899,Chharra,Modification,May,136.0
+900,900,Chhata,Addition,March,194.0
+901,901,Chhata,Addition,April,117.0
+902,902,Chhata,Addition,May,97.0
+903,903,Chhata,Deletion,March,25.0
+904,904,Chhata,Deletion,April,58.0
+905,905,Chhata,Deletion,May,18.0
+906,906,Chhata,Modification,March,141.0
+907,907,Chhata,Modification,April,98.0
+908,908,Chhata,Modification,May,70.0
+909,909,Chhibramau,Addition,March,266.0
+910,910,Chhibramau,Addition,April,236.0
+911,911,Chhibramau,Addition,May,242.0
+912,912,Chhibramau,Deletion,March,17.0
+913,913,Chhibramau,Deletion,April,67.0
+914,914,Chhibramau,Deletion,May,24.0
+915,915,Chhibramau,Modification,March,118.0
+916,916,Chhibramau,Modification,April,173.0
+917,917,Chhibramau,Modification,May,116.0
+918,918,Chillupar,Addition,March,308.0
+919,919,Chillupar,Addition,April,230.0
+920,920,Chillupar,Addition,May,157.0
+921,921,Chillupar,Deletion,March,102.0
+922,922,Chillupar,Deletion,April,57.0
+923,923,Chillupar,Deletion,May,7.0
+924,924,Chillupar,Modification,March,183.0
+925,925,Chillupar,Modification,April,231.0
+926,926,Chillupar,Modification,May,189.0
+927,927,Chitrakoot,Addition,March,115.0
+928,928,Chitrakoot,Addition,April,183.0
+929,929,Chitrakoot,Addition,May,113.0
+930,930,Chitrakoot,Deletion,March,19.0
+931,931,Chitrakoot,Deletion,April,30.0
+932,932,Chitrakoot,Deletion,May,5.0
+933,933,Chitrakoot,Modification,March,174.0
+934,934,Chitrakoot,Modification,April,164.0
+935,935,Chitrakoot,Modification,May,166.0
+936,936,Chunar,Addition,March,462.0
+937,937,Chunar,Addition,April,221.0
+938,938,Chunar,Addition,May,217.0
+939,939,Chunar,Deletion,March,12.0
+940,940,Chunar,Deletion,April,27.0
+941,941,Chunar,Deletion,May,10.0
+942,942,Chunar,Modification,March,271.0
+943,943,Chunar,Modification,April,166.0
+944,944,Chunar,Modification,May,121.0
+945,945,Colonelganj,Addition,March,325.0
+946,946,Colonelganj,Addition,April,228.0
+947,947,Colonelganj,Addition,May,268.0
+948,948,Colonelganj,Deletion,March,111.0
+949,949,Colonelganj,Deletion,April,24.0
+950,950,Colonelganj,Deletion,May,10.0
+951,951,Colonelganj,Modification,March,101.0
+952,952,Colonelganj,Modification,April,103.0
+953,953,Colonelganj,Modification,May,78.0
+954,954,Dadraul,Addition,March,374.0
+955,955,Dadraul,Addition,April,342.0
+956,956,Dadraul,Addition,May,310.0
+957,957,Dadraul,Deletion,March,13.0
+958,958,Dadraul,Deletion,April,55.0
+959,959,Dadraul,Deletion,May,6.0
+960,960,Dadraul,Modification,March,118.0
+961,961,Dadraul,Modification,April,104.0
+962,962,Dadraul,Modification,May,89.0
+963,963,Dadri,Addition,March,973.0
+964,964,Dadri,Addition,April,570.0
+965,965,Dadri,Addition,May,362.0
+966,966,Dadri,Deletion,March,213.0
+967,967,Dadri,Deletion,April,1073.0
+968,968,Dadri,Deletion,May,89.0
+969,969,Dadri,Modification,March,357.0
+970,970,Dadri,Modification,April,420.0
+971,971,Dadri,Modification,May,309.0
+972,972,Dariyabad,Addition,March,209.0
+973,973,Dariyabad,Addition,April,156.0
+974,974,Dariyabad,Addition,May,167.0
+975,975,Dariyabad,Deletion,March,40.0
+976,976,Dariyabad,Deletion,April,18.0
+977,977,Dariyabad,Deletion,May,10.0
+978,978,Dariyabad,Modification,March,83.0
+979,979,Dariyabad,Modification,April,135.0
+980,980,Dariyabad,Modification,May,85.0
+981,981,Dataganj,Addition,March,389.0
+982,982,Dataganj,Addition,April,340.0
+983,983,Dataganj,Addition,May,284.0
+984,984,Dataganj,Deletion,March,12.0
+985,985,Dataganj,Deletion,April,17.0
+986,986,Dataganj,Deletion,May,10.0
+987,987,Dataganj,Modification,March,96.0
+988,988,Dataganj,Modification,April,141.0
+989,989,Dataganj,Modification,May,100.0
+990,990,Debai,Addition,March,221.0
+991,991,Debai,Addition,April,218.0
+992,992,Debai,Addition,May,181.0
+993,993,Debai,Deletion,March,12.0
+994,994,Debai,Deletion,April,94.0
+995,995,Debai,Deletion,May,34.0
+996,996,Debai,Modification,March,141.0
+997,997,Debai,Modification,April,163.0
+998,998,Debai,Modification,May,118.0
+999,999,Deoband,Addition,March,475.0
+1000,1000,Deoband,Addition,April,347.0
+1001,1001,Deoband,Addition,May,281.0
+1002,1002,Deoband,Deletion,March,17.0
+1003,1003,Deoband,Deletion,April,44.0
+1004,1004,Deoband,Deletion,May,20.0
+1005,1005,Deoband,Modification,March,298.0
+1006,1006,Deoband,Modification,April,221.0
+1007,1007,Deoband,Modification,May,206.0
+1008,1008,Deoria,Addition,March,341.0
+1009,1009,Deoria,Addition,April,437.0
+1010,1010,Deoria,Addition,May,322.0
+1011,1011,Deoria,Deletion,March,48.0
+1012,1012,Deoria,Deletion,April,90.0
+1013,1013,Deoria,Deletion,May,14.0
+1014,1014,Deoria,Modification,March,167.0
+1015,1015,Deoria,Modification,April,275.0
+1016,1016,Deoria,Modification,May,170.0
+1017,1017,Dhampur,Addition,March,116.0
+1018,1018,Dhampur,Addition,April,146.0
+1019,1019,Dhampur,Addition,May,119.0
+1020,1020,Dhampur,Deletion,March,30.0
+1021,1021,Dhampur,Deletion,April,68.0
+1022,1022,Dhampur,Deletion,May,16.0
+1023,1023,Dhampur,Modification,March,162.0
+1024,1024,Dhampur,Modification,April,145.0
+1025,1025,Dhampur,Modification,May,155.0
+1026,1026,Dhanaura,Addition,March,264.0
+1027,1027,Dhanaura,Addition,April,274.0
+1028,1028,Dhanaura,Addition,May,238.0
+1029,1029,Dhanaura,Deletion,March,74.0
+1030,1030,Dhanaura,Deletion,April,23.0
+1031,1031,Dhanaura,Deletion,May,17.0
+1032,1032,Dhanaura,Modification,March,128.0
+1033,1033,Dhanaura,Modification,April,130.0
+1034,1034,Dhanaura,Modification,May,131.0
+1035,1035,Dhanghata,Addition,March,395.0
+1036,1036,Dhanghata,Addition,April,324.0
+1037,1037,Dhanghata,Addition,May,316.0
+1038,1038,Dhanghata,Deletion,March,17.0
+1039,1039,Dhanghata,Deletion,April,28.0
+1040,1040,Dhanghata,Deletion,May,6.0
+1041,1041,Dhanghata,Modification,March,166.0
+1042,1042,Dhanghata,Modification,April,172.0
+1043,1043,Dhanghata,Modification,May,153.0
+1044,1044,Dhaurahra,Addition,March,104.0
+1045,1045,Dhaurahra,Addition,April,113.0
+1046,1046,Dhaurahra,Addition,May,98.0
+1047,1047,Dhaurahra,Deletion,March,2.0
+1048,1048,Dhaurahra,Deletion,April,8.0
+1049,1049,Dhaurahra,Deletion,May,6.0
+1050,1050,Dhaurahra,Modification,March,55.0
+1051,1051,Dhaurahra,Modification,April,54.0
+1052,1052,Dhaurahra,Modification,May,38.0
+1053,1053,Dholana,Addition,March,394.0
+1054,1054,Dholana,Addition,April,360.0
+1055,1055,Dholana,Addition,May,344.0
+1056,1056,Dholana,Deletion,March,41.0
+1057,1057,Dholana,Deletion,April,70.0
+1058,1058,Dholana,Deletion,May,16.0
+1059,1059,Dholana,Modification,March,317.0
+1060,1060,Dholana,Modification,April,225.0
+1061,1061,Dholana,Modification,May,236.0
+1062,1062,Dibiyapur,Addition,March,32.0
+1063,1063,Dibiyapur,Addition,April,45.0
+1064,1064,Dibiyapur,Addition,May,47.0
+1065,1065,Dibiyapur,Deletion,March,20.0
+1066,1066,Dibiyapur,Deletion,April,29.0
+1067,1067,Dibiyapur,Deletion,May,6.0
+1068,1068,Dibiyapur,Modification,March,47.0
+1069,1069,Dibiyapur,Modification,April,44.0
+1070,1070,Dibiyapur,Modification,May,51.0
+1071,1071,Didarganj,Addition,March,197.0
+1072,1072,Didarganj,Addition,April,153.0
+1073,1073,Didarganj,Addition,May,153.0
+1074,1074,Didarganj,Deletion,March,20.0
+1075,1075,Didarganj,Deletion,April,35.0
+1076,1076,Didarganj,Deletion,May,6.0
+1077,1077,Didarganj,Modification,March,177.0
+1078,1078,Didarganj,Modification,April,105.0
+1079,1079,Didarganj,Modification,May,89.0
+1080,1080,Doomariyaganj,Addition,March,236.0
+1081,1081,Doomariyaganj,Addition,April,131.0
+1082,1082,Doomariyaganj,Addition,May,132.0
+1083,1083,Doomariyaganj,Deletion,March,14.0
+1084,1084,Doomariyaganj,Deletion,April,25.0
+1085,1085,Doomariyaganj,Deletion,May,6.0
+1086,1086,Doomariyaganj,Modification,March,215.0
+1087,1087,Doomariyaganj,Modification,April,194.0
+1088,1088,Doomariyaganj,Modification,May,203.0
+1089,1089,Duddhi,Addition,March,629.0
+1090,1090,Duddhi,Addition,April,305.0
+1091,1091,Duddhi,Addition,May,221.0
+1092,1092,Duddhi,Deletion,March,178.0
+1093,1093,Duddhi,Deletion,April,43.0
+1094,1094,Duddhi,Deletion,May,10.0
+1095,1095,Duddhi,Modification,March,340.0
+1096,1096,Duddhi,Modification,April,122.0
+1097,1097,Duddhi,Modification,May,95.0
+1098,1098,Etah,Addition,March,130.0
+1099,1099,Etah,Addition,April,100.0
+1100,1100,Etah,Addition,May,105.0
+1101,1101,Etah,Deletion,March,20.0
+1102,1102,Etah,Deletion,April,35.0
+1103,1103,Etah,Deletion,May,45.0
+1104,1104,Etah,Modification,March,74.0
+1105,1105,Etah,Modification,April,89.0
+1106,1106,Etah,Modification,May,86.0
+1107,1107,Etawah,Addition,March,275.0
+1108,1108,Etawah,Addition,April,236.0
+1109,1109,Etawah,Addition,May,273.0
+1110,1110,Etawah,Deletion,March,40.0
+1111,1111,Etawah,Deletion,April,74.0
+1112,1112,Etawah,Deletion,May,26.0
+1113,1113,Etawah,Modification,March,151.0
+1114,1114,Etawah,Modification,April,202.0
+1115,1115,Etawah,Modification,May,172.0
+1116,1116,Etmadpur,Addition,March,464.0
+1117,1117,Etmadpur,Addition,April,433.0
+1118,1118,Etmadpur,Addition,May,143.0
+1119,1119,Etmadpur,Deletion,March,34.0
+1120,1120,Etmadpur,Deletion,April,59.0
+1121,1121,Etmadpur,Deletion,May,17.0
+1122,1122,Etmadpur,Modification,March,218.0
+1123,1123,Etmadpur,Modification,April,251.0
+1124,1124,Etmadpur,Modification,May,76.0
+1125,1125,Faridpur,Addition,March,268.0
+1126,1126,Faridpur,Addition,April,307.0
+1127,1127,Faridpur,Addition,May,218.0
+1128,1128,Faridpur,Deletion,March,12.0
+1129,1129,Faridpur,Deletion,April,24.0
+1130,1130,Faridpur,Deletion,May,7.0
+1131,1131,Faridpur,Modification,March,131.0
+1132,1132,Faridpur,Modification,April,114.0
+1133,1133,Faridpur,Modification,May,99.0
+1134,1134,Farrukhabad,Addition,March,237.0
+1135,1135,Farrukhabad,Addition,April,191.0
+1136,1136,Farrukhabad,Addition,May,176.0
+1137,1137,Farrukhabad,Deletion,March,35.0
+1138,1138,Farrukhabad,Deletion,April,34.0
+1139,1139,Farrukhabad,Deletion,May,3.0
+1140,1140,Farrukhabad,Modification,March,102.0
+1141,1141,Farrukhabad,Modification,April,93.0
+1142,1142,Farrukhabad,Modification,May,112.0
+1143,1143,Fatehabad,Addition,March,279.0
+1144,1144,Fatehabad,Addition,April,265.0
+1145,1145,Fatehabad,Addition,May,309.0
+1146,1146,Fatehabad,Deletion,March,34.0
+1147,1147,Fatehabad,Deletion,April,49.0
+1148,1148,Fatehabad,Deletion,May,21.0
+1149,1149,Fatehabad,Modification,March,136.0
+1150,1150,Fatehabad,Modification,April,140.0
+1151,1151,Fatehabad,Modification,May,141.0
+1152,1152,Fatehpur,Addition,March,293.0
+1153,1153,Fatehpur,Addition,April,218.0
+1154,1154,Fatehpur,Addition,May,267.0
+1155,1155,Fatehpur,Deletion,March,27.0
+1156,1156,Fatehpur,Deletion,April,20.0
+1157,1157,Fatehpur,Deletion,May,74.0
+1158,1158,Fatehpur,Modification,March,105.0
+1159,1159,Fatehpur,Modification,April,81.0
+1160,1160,Fatehpur,Modification,May,132.0
+1161,1161,Fatehpur Sikri,Addition,March,118.0
+1162,1162,Fatehpur Sikri,Addition,April,163.0
+1163,1163,Fatehpur Sikri,Addition,May,92.0
+1164,1164,Fatehpur Sikri,Deletion,March,14.0
+1165,1165,Fatehpur Sikri,Deletion,April,42.0
+1166,1166,Fatehpur Sikri,Deletion,May,9.0
+1167,1167,Fatehpur Sikri,Modification,March,129.0
+1168,1168,Fatehpur Sikri,Modification,April,130.0
+1169,1169,Fatehpur Sikri,Modification,May,72.0
+1170,1170,Fazilnagar,Addition,March,184.0
+1171,1171,Fazilnagar,Addition,April,185.0
+1172,1172,Fazilnagar,Addition,May,148.0
+1173,1173,Fazilnagar,Deletion,March,12.0
+1174,1174,Fazilnagar,Deletion,April,25.0
+1175,1175,Fazilnagar,Deletion,May,3.0
+1176,1176,Fazilnagar,Modification,March,71.0
+1177,1177,Fazilnagar,Modification,April,80.0
+1178,1178,Fazilnagar,Modification,May,94.0
+1179,1179,Firozabad,Addition,March,438.0
+1180,1180,Firozabad,Addition,April,410.0
+1181,1181,Firozabad,Addition,May,273.0
+1182,1182,Firozabad,Deletion,March,88.0
+1183,1183,Firozabad,Deletion,April,107.0
+1184,1184,Firozabad,Deletion,May,18.0
+1185,1185,Firozabad,Modification,March,384.0
+1186,1186,Firozabad,Modification,April,237.0
+1187,1187,Firozabad,Modification,May,149.0
+1188,1188,Gainsari,Addition,March,383.0
+1189,1189,Gainsari,Addition,April,284.0
+1190,1190,Gainsari,Addition,May,258.0
+1191,1191,Gainsari,Deletion,March,10.0
+1192,1192,Gainsari,Deletion,April,22.0
+1193,1193,Gainsari,Deletion,May,5.0
+1194,1194,Gainsari,Modification,March,136.0
+1195,1195,Gainsari,Modification,April,170.0
+1196,1196,Gainsari,Modification,May,131.0
+1197,1197,Gangoh,Addition,March,333.0
+1198,1198,Gangoh,Addition,April,332.0
+1199,1199,Gangoh,Addition,May,352.0
+1200,1200,Gangoh,Deletion,March,126.0
+1201,1201,Gangoh,Deletion,April,53.0
+1202,1202,Gangoh,Deletion,May,45.0
+1203,1203,Gangoh,Modification,March,270.0
+1204,1204,Gangoh,Modification,April,316.0
+1205,1205,Gangoh,Modification,May,236.0
+1206,1206,Garautha,Addition,March,325.0
+1207,1207,Garautha,Addition,April,286.0
+1208,1208,Garautha,Addition,May,269.0
+1209,1209,Garautha,Deletion,March,23.0
+1210,1210,Garautha,Deletion,April,30.0
+1211,1211,Garautha,Deletion,May,43.0
+1212,1212,Garautha,Modification,March,121.0
+1213,1213,Garautha,Modification,April,123.0
+1214,1214,Garautha,Modification,May,109.0
+1215,1215,Garhmukteshwar,Addition,March,439.0
+1216,1216,Garhmukteshwar,Addition,April,364.0
+1217,1217,Garhmukteshwar,Addition,May,195.0
+1218,1218,Garhmukteshwar,Deletion,March,81.0
+1219,1219,Garhmukteshwar,Deletion,April,169.0
+1220,1220,Garhmukteshwar,Deletion,May,195.0
+1221,1221,Garhmukteshwar,Modification,March,404.0
+1222,1222,Garhmukteshwar,Modification,April,221.0
+1223,1223,Garhmukteshwar,Modification,May,307.0
+1224,1224,Gaura,Addition,March,710.0
+1225,1225,Gaura,Addition,April,55.0
+1226,1226,Gaura,Addition,May,17.0
+1227,1227,Gaura,Deletion,March,27.0
+1228,1228,Gaura,Deletion,April,48.0
+1229,1229,Gaura,Deletion,May,2.0
+1230,1230,Gaura,Modification,March,488.0
+1231,1231,Gaura,Modification,April,106.0
+1232,1232,Gaura,Modification,May,46.0
+1233,1233,Gauriganj,Addition,March,218.0
+1234,1234,Gauriganj,Addition,April,162.0
+1235,1235,Gauriganj,Addition,May,159.0
+1236,1236,Gauriganj,Deletion,March,32.0
+1237,1237,Gauriganj,Deletion,April,110.0
+1238,1238,Gauriganj,Deletion,May,31.0
+1239,1239,Gauriganj,Modification,March,118.0
+1240,1240,Gauriganj,Modification,April,94.0
+1241,1241,Gauriganj,Modification,May,86.0
+1242,1242,Ghatampur,Addition,March,110.0
+1243,1243,Ghatampur,Addition,April,1333.0
+1244,1244,Ghatampur,Addition,May,571.0
+1245,1245,Ghatampur,Deletion,March,7.0
+1246,1246,Ghatampur,Deletion,April,203.0
+1247,1247,Ghatampur,Deletion,May,70.0
+1248,1248,Ghatampur,Modification,March,58.0
+1249,1249,Ghatampur,Modification,April,137.0
+1250,1250,Ghatampur,Modification,May,107.0
+1251,1251,Ghaziabad,Addition,March,626.0
+1252,1252,Ghaziabad,Addition,April,517.0
+1253,1253,Ghaziabad,Addition,May,579.0
+1254,1254,Ghaziabad,Deletion,March,101.0
+1255,1255,Ghaziabad,Deletion,April,427.0
+1256,1256,Ghaziabad,Deletion,May,93.0
+1257,1257,Ghaziabad,Modification,March,346.0
+1258,1258,Ghaziabad,Modification,April,232.0
+1259,1259,Ghaziabad,Modification,May,243.0
+1260,1260,Ghazipur,Addition,March,90.0
+1261,1261,Ghazipur,Addition,April,32.0
+1262,1262,Ghazipur,Addition,May,53.0
+1263,1263,Ghazipur,Deletion,March,11.0
+1264,1264,Ghazipur,Deletion,April,41.0
+1265,1265,Ghazipur,Deletion,May,17.0
+1266,1266,Ghazipur,Modification,March,88.0
+1267,1267,Ghazipur,Modification,April,104.0
+1268,1268,Ghazipur,Modification,May,122.0
+1269,1269,Ghorawal,Addition,March,590.0
+1270,1270,Ghorawal,Addition,April,678.0
+1271,1271,Ghorawal,Addition,May,292.0
+1272,1272,Ghorawal,Deletion,March,12.0
+1273,1273,Ghorawal,Deletion,April,82.0
+1274,1274,Ghorawal,Deletion,May,5.0
+1275,1275,Ghorawal,Modification,March,110.0
+1276,1276,Ghorawal,Modification,April,174.0
+1277,1277,Ghorawal,Modification,May,102.0
+1278,1278,Ghosi,Addition,March,277.0
+1279,1279,Ghosi,Addition,April,236.0
+1280,1280,Ghosi,Addition,May,233.0
+1281,1281,Ghosi,Deletion,March,23.0
+1282,1282,Ghosi,Deletion,April,20.0
+1283,1283,Ghosi,Deletion,May,6.0
+1284,1284,Ghosi,Modification,March,183.0
+1285,1285,Ghosi,Modification,April,174.0
+1286,1286,Ghosi,Modification,May,170.0
+1287,1287,Gola Gokrannath,Addition,March,140.0
+1288,1288,Gola Gokrannath,Addition,April,84.0
+1289,1289,Gola Gokrannath,Addition,May,62.0
+1290,1290,Gola Gokrannath,Deletion,March,17.0
+1291,1291,Gola Gokrannath,Deletion,April,10.0
+1292,1292,Gola Gokrannath,Deletion,May,24.0
+1293,1293,Gola Gokrannath,Modification,March,114.0
+1294,1294,Gola Gokrannath,Modification,April,85.0
+1295,1295,Gola Gokrannath,Modification,May,59.0
+1296,1296,Gonda,Addition,March,330.0
+1297,1297,Gonda,Addition,April,213.0
+1298,1298,Gonda,Addition,May,163.0
+1299,1299,Gonda,Deletion,March,18.0
+1300,1300,Gonda,Deletion,April,33.0
+1301,1301,Gonda,Deletion,May,5.0
+1302,1302,Gonda,Modification,March,232.0
+1303,1303,Gonda,Modification,April,164.0
+1304,1304,Gonda,Modification,May,196.0
+1305,1305,Gopalpur,Addition,March,159.0
+1306,1306,Gopalpur,Addition,April,166.0
+1307,1307,Gopalpur,Addition,May,155.0
+1308,1308,Gopalpur,Deletion,March,13.0
+1309,1309,Gopalpur,Deletion,April,40.0
+1310,1310,Gopalpur,Deletion,May,6.0
+1311,1311,Gopalpur,Modification,March,172.0
+1312,1312,Gopalpur,Modification,April,160.0
+1313,1313,Gopalpur,Modification,May,140.0
+1314,1314,Gopamau,Addition,March,52.0
+1315,1315,Gopamau,Addition,April,87.0
+1316,1316,Gopamau,Addition,May,92.0
+1317,1317,Gopamau,Deletion,March,36.0
+1318,1318,Gopamau,Deletion,April,315.0
+1319,1319,Gopamau,Deletion,May,35.0
+1320,1320,Gopamau,Modification,March,64.0
+1321,1321,Gopamau,Modification,April,84.0
+1322,1322,Gopamau,Modification,May,61.0
+1323,1323,Gorakhpur Rural,Addition,March,389.0
+1324,1324,Gorakhpur Rural,Addition,April,407.0
+1325,1325,Gorakhpur Rural,Addition,May,236.0
+1326,1326,Gorakhpur Rural,Deletion,March,25.0
+1327,1327,Gorakhpur Rural,Deletion,April,64.0
+1328,1328,Gorakhpur Rural,Deletion,May,22.0
+1329,1329,Gorakhpur Rural,Modification,March,259.0
+1330,1330,Gorakhpur Rural,Modification,April,317.0
+1331,1331,Gorakhpur Rural,Modification,May,134.0
+1332,1332,Gorakhpur Urban,Addition,March,473.0
+1333,1333,Gorakhpur Urban,Addition,April,627.0
+1334,1334,Gorakhpur Urban,Addition,May,614.0
+1335,1335,Gorakhpur Urban,Deletion,March,17.0
+1336,1336,Gorakhpur Urban,Deletion,April,125.0
+1337,1337,Gorakhpur Urban,Deletion,May,47.0
+1338,1338,Gorakhpur Urban,Modification,March,326.0
+1339,1339,Gorakhpur Urban,Modification,April,323.0
+1340,1340,Gorakhpur Urban,Modification,May,466.0
+1341,1341,Goshainganj,Addition,March,346.0
+1342,1342,Goshainganj,Addition,April,253.0
+1343,1343,Goshainganj,Addition,May,297.0
+1344,1344,Goshainganj,Deletion,March,15.0
+1345,1345,Goshainganj,Deletion,April,25.0
+1346,1346,Goshainganj,Deletion,May,46.0
+1347,1347,Goshainganj,Modification,March,159.0
+1348,1348,Goshainganj,Modification,April,156.0
+1349,1349,Goshainganj,Modification,May,147.0
+1350,1350,Goverdhan,Addition,March,251.0
+1351,1351,Goverdhan,Addition,April,205.0
+1352,1352,Goverdhan,Addition,May,174.0
+1353,1353,Goverdhan,Deletion,March,16.0
+1354,1354,Goverdhan,Deletion,April,44.0
+1355,1355,Goverdhan,Deletion,May,13.0
+1356,1356,Goverdhan,Modification,March,214.0
+1357,1357,Goverdhan,Modification,April,132.0
+1358,1358,Goverdhan,Modification,May,142.0
+1359,1359,Govindnagar,Addition,March,377.0
+1360,1360,Govindnagar,Addition,April,158.0
+1361,1361,Govindnagar,Addition,May,167.0
+1362,1362,Govindnagar,Deletion,March,48.0
+1363,1363,Govindnagar,Deletion,April,161.0
+1364,1364,Govindnagar,Deletion,May,18.0
+1365,1365,Govindnagar,Modification,March,130.0
+1366,1366,Govindnagar,Modification,April,146.0
+1367,1367,Govindnagar,Modification,May,100.0
+1368,1368,Gunnaur,Addition,March,560.0
+1369,1369,Gunnaur,Addition,April,705.0
+1370,1370,Gunnaur,Addition,May,245.0
+1371,1371,Gunnaur,Deletion,March,98.0
+1372,1372,Gunnaur,Deletion,April,55.0
+1373,1373,Gunnaur,Deletion,May,77.0
+1374,1374,Gunnaur,Modification,March,171.0
+1375,1375,Gunnaur,Modification,April,104.0
+1376,1376,Gunnaur,Modification,May,73.0
+1377,1377,Gyanpur,Addition,March,540.0
+1378,1378,Gyanpur,Addition,April,393.0
+1379,1379,Gyanpur,Addition,May,356.0
+1380,1380,Gyanpur,Deletion,March,25.0
+1381,1381,Gyanpur,Deletion,April,46.0
+1382,1382,Gyanpur,Deletion,May,16.0
+1383,1383,Gyanpur,Modification,March,231.0
+1384,1384,Gyanpur,Modification,April,228.0
+1385,1385,Gyanpur,Modification,May,195.0
+1386,1386,Haidergarh,Addition,March,45.0
+1387,1387,Haidergarh,Addition,April,93.0
+1388,1388,Haidergarh,Addition,May,57.0
+1389,1389,Haidergarh,Deletion,March,8.0
+1390,1390,Haidergarh,Deletion,April,8.0
+1391,1391,Haidergarh,Deletion,May,5.0
+1392,1392,Haidergarh,Modification,March,59.0
+1393,1393,Haidergarh,Modification,April,56.0
+1394,1394,Haidergarh,Modification,May,48.0
+1395,1395,Hamirpur,Addition,March,177.0
+1396,1396,Hamirpur,Addition,April,214.0
+1397,1397,Hamirpur,Addition,May,162.0
+1398,1398,Hamirpur,Deletion,March,23.0
+1399,1399,Hamirpur,Deletion,April,32.0
+1400,1400,Hamirpur,Deletion,May,11.0
+1401,1401,Hamirpur,Modification,March,154.0
+1402,1402,Hamirpur,Modification,April,117.0
+1403,1403,Hamirpur,Modification,May,115.0
+1404,1404,Handia,Addition,March,186.0
+1405,1405,Handia,Addition,April,213.0
+1406,1406,Handia,Addition,May,167.0
+1407,1407,Handia,Deletion,March,17.0
+1408,1408,Handia,Deletion,April,67.0
+1409,1409,Handia,Deletion,May,2.0
+1410,1410,Handia,Modification,March,97.0
+1411,1411,Handia,Modification,April,121.0
+1412,1412,Handia,Modification,May,81.0
+1413,1413,Hapur,Addition,March,60.0
+1414,1414,Hapur,Addition,April,60.0
+1415,1415,Hapur,Addition,May,60.0
+1416,1416,Hapur,Deletion,March,77.0
+1417,1417,Hapur,Deletion,April,61.0
+1418,1418,Hapur,Deletion,May,30.0
+1419,1419,Hapur,Modification,March,53.0
+1420,1420,Hapur,Modification,April,27.0
+1421,1421,Hapur,Modification,May,38.0
+1422,1422,Harchandpur,Addition,March,125.0
+1423,1423,Harchandpur,Addition,April,67.0
+1424,1424,Harchandpur,Addition,May,54.0
+1425,1425,Harchandpur,Deletion,March,5.0
+1426,1426,Harchandpur,Deletion,April,14.0
+1427,1427,Harchandpur,Deletion,May,4.0
+1428,1428,Harchandpur,Modification,March,68.0
+1429,1429,Harchandpur,Modification,April,44.0
+1430,1430,Harchandpur,Modification,May,50.0
+1431,1431,Hardoi,Addition,March,128.0
+1432,1432,Hardoi,Addition,April,244.0
+1433,1433,Hardoi,Addition,May,191.0
+1434,1434,Hardoi,Deletion,March,15.0
+1435,1435,Hardoi,Deletion,April,34.0
+1436,1436,Hardoi,Deletion,May,25.0
+1437,1437,Hardoi,Modification,March,103.0
+1438,1438,Hardoi,Modification,April,141.0
+1439,1439,Hardoi,Modification,May,113.0
+1440,1440,Hargaon,Addition,March,167.0
+1441,1441,Hargaon,Addition,April,173.0
+1442,1442,Hargaon,Addition,May,72.0
+1443,1443,Hargaon,Deletion,March,4.0
+1444,1444,Hargaon,Deletion,April,12.0
+1445,1445,Hargaon,Deletion,May,3.0
+1446,1446,Hargaon,Modification,March,57.0
+1447,1447,Hargaon,Modification,April,112.0
+1448,1448,Hargaon,Modification,May,57.0
+1449,1449,Harraiya,Addition,March,210.0
+1450,1450,Harraiya,Addition,April,192.0
+1451,1451,Harraiya,Addition,May,171.0
+1452,1452,Harraiya,Deletion,March,24.0
+1453,1453,Harraiya,Deletion,April,45.0
+1454,1454,Harraiya,Deletion,May,11.0
+1455,1455,Harraiya,Modification,March,163.0
+1456,1456,Harraiya,Modification,April,194.0
+1457,1457,Harraiya,Modification,May,127.0
+1458,1458,Hasanpur,Addition,March,208.0
+1459,1459,Hasanpur,Addition,April,103.0
+1460,1460,Hasanpur,Addition,May,195.0
+1461,1461,Hasanpur,Deletion,March,13.0
+1462,1462,Hasanpur,Deletion,April,23.0
+1463,1463,Hasanpur,Deletion,May,16.0
+1464,1464,Hasanpur,Modification,March,166.0
+1465,1465,Hasanpur,Modification,April,138.0
+1466,1466,Hasanpur,Modification,May,141.0
+1467,1467,Hastinapur,Addition,March,198.0
+1468,1468,Hastinapur,Addition,April,174.0
+1469,1469,Hastinapur,Addition,May,104.0
+1470,1470,Hastinapur,Deletion,March,32.0
+1471,1471,Hastinapur,Deletion,April,33.0
+1472,1472,Hastinapur,Deletion,May,11.0
+1473,1473,Hastinapur,Modification,March,170.0
+1474,1474,Hastinapur,Modification,April,165.0
+1475,1475,Hastinapur,Modification,May,136.0
+1476,1476,Hata,Addition,March,180.0
+1477,1477,Hata,Addition,April,156.0
+1478,1478,Hata,Addition,May,192.0
+1479,1479,Hata,Deletion,March,8.0
+1480,1480,Hata,Deletion,April,27.0
+1481,1481,Hata,Deletion,May,6.0
+1482,1482,Hata,Modification,March,181.0
+1483,1483,Hata,Modification,April,201.0
+1484,1484,Hata,Modification,May,157.0
+1485,1485,Hathras,Addition,March,86.0
+1486,1486,Hathras,Addition,April,49.0
+1487,1487,Hathras,Addition,May,53.0
+1488,1488,Hathras,Deletion,March,26.0
+1489,1489,Hathras,Deletion,April,54.0
+1490,1490,Hathras,Deletion,May,15.0
+1491,1491,Hathras,Modification,March,75.0
+1492,1492,Hathras,Modification,April,77.0
+1493,1493,Hathras,Modification,May,69.0
+1494,1494,Husainganj,Addition,March,81.0
+1495,1495,Husainganj,Addition,April,107.0
+1496,1496,Husainganj,Addition,May,221.0
+1497,1497,Husainganj,Deletion,March,28.0
+1498,1498,Husainganj,Deletion,April,87.0
+1499,1499,Husainganj,Deletion,May,167.0
+1500,1500,Husainganj,Modification,March,61.0
+1501,1501,Husainganj,Modification,April,57.0
+1502,1502,Husainganj,Modification,May,86.0
+1503,1503,Iglas,Addition,March,378.0
+1504,1504,Iglas,Addition,April,146.0
+1505,1505,Iglas,Addition,May,162.0
+1506,1506,Iglas,Deletion,March,14.0
+1507,1507,Iglas,Deletion,April,54.0
+1508,1508,Iglas,Deletion,May,19.0
+1509,1509,Iglas,Modification,March,90.0
+1510,1510,Iglas,Modification,April,81.0
+1511,1511,Iglas,Modification,May,72.0
+1512,1512,Isauli,Addition,March,149.0
+1513,1513,Isauli,Addition,April,152.0
+1514,1514,Isauli,Addition,May,194.0
+1515,1515,Isauli,Deletion,March,7.0
+1516,1516,Isauli,Deletion,April,25.0
+1517,1517,Isauli,Deletion,May,22.0
+1518,1518,Isauli,Modification,March,132.0
+1519,1519,Isauli,Modification,April,131.0
+1520,1520,Isauli,Modification,May,129.0
+1521,1521,Itwa,Addition,March,191.0
+1522,1522,Itwa,Addition,April,159.0
+1523,1523,Itwa,Addition,May,106.0
+1524,1524,Itwa,Deletion,March,18.0
+1525,1525,Itwa,Deletion,April,16.0
+1526,1526,Itwa,Deletion,May,21.0
+1527,1527,Itwa,Modification,March,125.0
+1528,1528,Itwa,Modification,April,101.0
+1529,1529,Itwa,Modification,May,96.0
+1530,1530,Jagdishpur,Addition,March,219.0
+1531,1531,Jagdishpur,Addition,April,173.0
+1532,1532,Jagdishpur,Addition,May,167.0
+1533,1533,Jagdishpur,Deletion,March,27.0
+1534,1534,Jagdishpur,Deletion,April,90.0
+1535,1535,Jagdishpur,Deletion,May,28.0
+1536,1536,Jagdishpur,Modification,March,107.0
+1537,1537,Jagdishpur,Modification,April,109.0
+1538,1538,Jagdishpur,Modification,May,122.0
+1539,1539,Jahanabad,Addition,March,250.0
+1540,1540,Jahanabad,Addition,April,78.0
+1541,1541,Jahanabad,Addition,May,151.0
+1542,1542,Jahanabad,Deletion,March,11.0
+1543,1543,Jahanabad,Deletion,April,8.0
+1544,1544,Jahanabad,Deletion,May,67.0
+1545,1545,Jahanabad,Modification,March,144.0
+1546,1546,Jahanabad,Modification,April,71.0
+1547,1547,Jahanabad,Modification,May,94.0
+1548,1548,Jakhanian,Addition,March,126.0
+1549,1549,Jakhanian,Addition,April,110.0
+1550,1550,Jakhanian,Addition,May,128.0
+1551,1551,Jakhanian,Deletion,March,33.0
+1552,1552,Jakhanian,Deletion,April,25.0
+1553,1553,Jakhanian,Deletion,May,17.0
+1554,1554,Jakhanian,Modification,March,264.0
+1555,1555,Jakhanian,Modification,April,143.0
+1556,1556,Jakhanian,Modification,May,138.0
+1557,1557,Jalalabad,Addition,March,129.0
+1558,1558,Jalalabad,Addition,April,172.0
+1559,1559,Jalalabad,Addition,May,211.0
+1560,1560,Jalalabad,Deletion,March,12.0
+1561,1561,Jalalabad,Deletion,April,17.0
+1562,1562,Jalalabad,Deletion,May,8.0
+1563,1563,Jalalabad,Modification,March,66.0
+1564,1564,Jalalabad,Modification,April,66.0
+1565,1565,Jalalabad,Modification,May,60.0
+1566,1566,Jalalpur,Addition,March,208.0
+1567,1567,Jalalpur,Addition,April,209.0
+1568,1568,Jalalpur,Addition,May,227.0
+1569,1569,Jalalpur,Deletion,March,7.0
+1570,1570,Jalalpur,Deletion,April,173.0
+1571,1571,Jalalpur,Deletion,May,49.0
+1572,1572,Jalalpur,Modification,March,255.0
+1573,1573,Jalalpur,Modification,April,282.0
+1574,1574,Jalalpur,Modification,May,280.0
+1575,1575,Jalesar,Addition,March,159.0
+1576,1576,Jalesar,Addition,April,189.0
+1577,1577,Jalesar,Addition,May,146.0
+1578,1578,Jalesar,Deletion,March,25.0
+1579,1579,Jalesar,Deletion,April,37.0
+1580,1580,Jalesar,Deletion,May,15.0
+1581,1581,Jalesar,Modification,March,102.0
+1582,1582,Jalesar,Modification,April,100.0
+1583,1583,Jalesar,Modification,May,88.0
+1584,1584,Jangipur,Addition,March,139.0
+1585,1585,Jangipur,Addition,April,67.0
+1586,1586,Jangipur,Addition,May,76.0
+1587,1587,Jangipur,Deletion,March,20.0
+1588,1588,Jangipur,Deletion,April,22.0
+1589,1589,Jangipur,Deletion,May,20.0
+1590,1590,Jangipur,Modification,March,257.0
+1591,1591,Jangipur,Modification,April,100.0
+1592,1592,Jangipur,Modification,May,141.0
+1593,1593,Jasrana,Addition,March,223.0
+1594,1594,Jasrana,Addition,April,247.0
+1595,1595,Jasrana,Addition,May,803.0
+1596,1596,Jasrana,Deletion,March,17.0
+1597,1597,Jasrana,Deletion,April,12.0
+1598,1598,Jasrana,Deletion,May,9.0
+1599,1599,Jasrana,Modification,March,123.0
+1600,1600,Jasrana,Modification,April,191.0
+1601,1601,Jasrana,Modification,May,133.0
+1602,1602,Jaswantnagar,Addition,March,105.0
+1603,1603,Jaswantnagar,Addition,April,97.0
+1604,1604,Jaswantnagar,Addition,May,88.0
+1605,1605,Jaswantnagar,Deletion,March,14.0
+1606,1606,Jaswantnagar,Deletion,April,51.0
+1607,1607,Jaswantnagar,Deletion,May,36.0
+1608,1608,Jaswantnagar,Modification,March,88.0
+1609,1609,Jaswantnagar,Modification,April,88.0
+1610,1610,Jaswantnagar,Modification,May,73.0
+1611,1611,Jaunpur,Addition,March,442.0
+1612,1612,Jaunpur,Addition,April,324.0
+1613,1613,Jaunpur,Addition,May,335.0
+1614,1614,Jaunpur,Deletion,March,196.0
+1615,1615,Jaunpur,Deletion,April,36.0
+1616,1616,Jaunpur,Deletion,May,10.0
+1617,1617,Jaunpur,Modification,March,221.0
+1618,1618,Jaunpur,Modification,April,191.0
+1619,1619,Jaunpur,Modification,May,148.0
+1620,1620,Jewar,Addition,March,240.0
+1621,1621,Jewar,Addition,April,251.0
+1622,1622,Jewar,Addition,May,300.0
+1623,1623,Jewar,Deletion,March,18.0
+1624,1624,Jewar,Deletion,April,92.0
+1625,1625,Jewar,Deletion,May,10.0
+1626,1626,Jewar,Modification,March,150.0
+1627,1627,Jewar,Modification,April,145.0
+1628,1628,Jewar,Modification,May,126.0
+1629,1629,Jhansi Nagar,Addition,March,676.0
+1630,1630,Jhansi Nagar,Addition,April,512.0
+1631,1631,Jhansi Nagar,Addition,May,464.0
+1632,1632,Jhansi Nagar,Deletion,March,31.0
+1633,1633,Jhansi Nagar,Deletion,April,141.0
+1634,1634,Jhansi Nagar,Deletion,May,41.0
+1635,1635,Jhansi Nagar,Modification,March,344.0
+1636,1636,Jhansi Nagar,Modification,April,276.0
+1637,1637,Jhansi Nagar,Modification,May,305.0
+1638,1638,Kadipur,Addition,March,303.0
+1639,1639,Kadipur,Addition,April,237.0
+1640,1640,Kadipur,Addition,May,289.0
+1641,1641,Kadipur,Deletion,March,15.0
+1642,1642,Kadipur,Deletion,April,52.0
+1643,1643,Kadipur,Deletion,May,16.0
+1644,1644,Kadipur,Modification,March,253.0
+1645,1645,Kadipur,Modification,April,235.0
+1646,1646,Kadipur,Modification,May,191.0
+1647,1647,Kaimganj,Addition,March,109.0
+1648,1648,Kaimganj,Addition,April,71.0
+1649,1649,Kaimganj,Addition,May,211.0
+1650,1650,Kaimganj,Deletion,March,23.0
+1651,1651,Kaimganj,Deletion,April,20.0
+1652,1652,Kaimganj,Deletion,May,96.0
+1653,1653,Kaimganj,Modification,March,74.0
+1654,1654,Kaimganj,Modification,April,87.0
+1655,1655,Kaimganj,Modification,May,123.0
+1656,1656,Kairana,Addition,March,75.0
+1657,1657,Kairana,Addition,April,137.0
+1658,1658,Kairana,Addition,May,100.0
+1659,1659,Kairana,Deletion,March,29.0
+1660,1660,Kairana,Deletion,April,42.0
+1661,1661,Kairana,Modification,March,330.0
+1662,1662,Kairana,Modification,April,162.0
+1663,1663,Kairana,Modification,May,39.0
+1664,1664,Kaiserganj,Addition,March,535.0
+1665,1665,Kaiserganj,Addition,April,449.0
+1666,1666,Kaiserganj,Addition,May,300.0
+1667,1667,Kaiserganj,Deletion,March,6.0
+1668,1668,Kaiserganj,Deletion,April,22.0
+1669,1669,Kaiserganj,Deletion,May,11.0
+1670,1670,Kaiserganj,Modification,March,269.0
+1671,1671,Kaiserganj,Modification,April,265.0
+1672,1672,Kaiserganj,Modification,May,418.0
+1673,1673,Kalpi,Addition,March,443.0
+1674,1674,Kalpi,Addition,April,197.0
+1675,1675,Kalpi,Addition,May,396.0
+1676,1676,Kalpi,Deletion,March,25.0
+1677,1677,Kalpi,Deletion,April,28.0
+1678,1678,Kalpi,Deletion,May,78.0
+1679,1679,Kalpi,Modification,March,146.0
+1680,1680,Kalpi,Modification,April,82.0
+1681,1681,Kalpi,Modification,May,97.0
+1682,1682,Kalyanpur,Addition,March,288.0
+1683,1683,Kalyanpur,Addition,April,210.0
+1684,1684,Kalyanpur,Addition,May,232.0
+1685,1685,Kalyanpur,Deletion,March,32.0
+1686,1686,Kalyanpur,Deletion,April,167.0
+1687,1687,Kalyanpur,Deletion,May,19.0
+1688,1688,Kalyanpur,Modification,March,157.0
+1689,1689,Kalyanpur,Modification,April,155.0
+1690,1690,Kalyanpur,Modification,May,158.0
+1691,1691,Kannauj,Addition,March,125.0
+1692,1692,Kannauj,Addition,April,61.0
+1693,1693,Kannauj,Addition,May,53.0
+1694,1694,Kannauj,Deletion,March,33.0
+1695,1695,Kannauj,Deletion,April,17.0
+1696,1696,Kannauj,Deletion,May,5.0
+1697,1697,Kannauj,Modification,March,106.0
+1698,1698,Kannauj,Modification,April,87.0
+1699,1699,Kannauj,Modification,May,87.0
+1700,1700,Kanpur Cantt,Addition,March,316.0
+1701,1701,Kanpur Cantt,Addition,April,170.0
+1702,1702,Kanpur Cantt,Addition,May,225.0
+1703,1703,Kanpur Cantt,Deletion,March,64.0
+1704,1704,Kanpur Cantt,Deletion,April,442.0
+1705,1705,Kanpur Cantt,Deletion,May,15.0
+1706,1706,Kanpur Cantt,Modification,March,132.0
+1707,1707,Kanpur Cantt,Modification,April,187.0
+1708,1708,Kanpur Cantt,Modification,May,216.0
+1709,1709,Kanth,Addition,March,165.0
+1710,1710,Kanth,Addition,April,129.0
+1711,1711,Kanth,Addition,May,167.0
+1712,1712,Kanth,Deletion,March,4.0
+1713,1713,Kanth,Deletion,April,21.0
+1714,1714,Kanth,Deletion,May,35.0
+1715,1715,Kanth,Modification,March,197.0
+1716,1716,Kanth,Modification,April,191.0
+1717,1717,Kanth,Modification,May,306.0
+1718,1718,Kapilvastu,Addition,March,333.0
+1719,1719,Kapilvastu,Addition,April,130.0
+1720,1720,Kapilvastu,Addition,May,155.0
+1721,1721,Kapilvastu,Deletion,March,25.0
+1722,1722,Kapilvastu,Deletion,April,13.0
+1723,1723,Kapilvastu,Deletion,May,6.0
+1724,1724,Kapilvastu,Modification,March,480.0
+1725,1725,Kapilvastu,Modification,April,120.0
+1726,1726,Kapilvastu,Modification,May,183.0
+1727,1727,Kaptanganj,Addition,March,248.0
+1728,1728,Kaptanganj,Addition,April,120.0
+1729,1729,Kaptanganj,Addition,May,135.0
+1730,1730,Kaptanganj,Deletion,March,54.0
+1731,1731,Kaptanganj,Deletion,April,39.0
+1732,1732,Kaptanganj,Deletion,May,22.0
+1733,1733,Kaptanganj,Modification,March,242.0
+1734,1734,Kaptanganj,Modification,April,147.0
+1735,1735,Kaptanganj,Modification,May,129.0
+1736,1736,Karachhana,Addition,March,143.0
+1737,1737,Karachhana,Addition,April,149.0
+1738,1738,Karachhana,Addition,May,165.0
+1739,1739,Karachhana,Deletion,March,5.0
+1740,1740,Karachhana,Deletion,April,24.0
+1741,1741,Karachhana,Deletion,May,1.0
+1742,1742,Karachhana,Modification,March,66.0
+1743,1743,Karachhana,Modification,April,49.0
+1744,1744,Karachhana,Modification,May,47.0
+1745,1745,Karhal,Addition,March,228.0
+1746,1746,Karhal,Addition,April,183.0
+1747,1747,Karhal,Addition,May,412.0
+1748,1748,Karhal,Deletion,March,113.0
+1749,1749,Karhal,Deletion,April,68.0
+1750,1750,Karhal,Deletion,May,241.0
+1751,1751,Karhal,Modification,March,208.0
+1752,1752,Karhal,Modification,April,120.0
+1753,1753,Karhal,Modification,May,211.0
+1754,1754,Kasganj,Addition,March,168.0
+1755,1755,Kasganj,Addition,April,281.0
+1756,1756,Kasganj,Addition,May,119.0
+1757,1757,Kasganj,Deletion,March,28.0
+1758,1758,Kasganj,Deletion,April,48.0
+1759,1759,Kasganj,Deletion,May,9.0
+1760,1760,Kasganj,Modification,March,165.0
+1761,1761,Kasganj,Modification,April,169.0
+1762,1762,Kasganj,Modification,May,122.0
+1763,1763,Kasta,Addition,March,174.0
+1764,1764,Kasta,Addition,April,117.0
+1765,1765,Kasta,Addition,May,94.0
+1766,1766,Kasta,Deletion,March,14.0
+1767,1767,Kasta,Deletion,April,8.0
+1768,1768,Kasta,Deletion,May,5.0
+1769,1769,Kasta,Modification,March,89.0
+1770,1770,Kasta,Modification,April,87.0
+1771,1771,Kasta,Modification,May,43.0
+1772,1772,Katehari,Addition,March,265.0
+1773,1773,Katehari,Addition,April,201.0
+1774,1774,Katehari,Addition,May,273.0
+1775,1775,Katehari,Deletion,March,30.0
+1776,1776,Katehari,Deletion,April,59.0
+1777,1777,Katehari,Deletion,May,22.0
+1778,1778,Katehari,Modification,March,237.0
+1779,1779,Katehari,Modification,April,238.0
+1780,1780,Katehari,Modification,May,191.0
+1781,1781,Katra,Addition,March,230.0
+1782,1782,Katra,Addition,April,218.0
+1783,1783,Katra,Addition,May,246.0
+1784,1784,Katra,Deletion,March,11.0
+1785,1785,Katra,Deletion,April,28.0
+1786,1786,Katra,Deletion,May,26.0
+1787,1787,Katra,Modification,March,117.0
+1788,1788,Katra,Modification,April,114.0
+1789,1789,Katra,Modification,May,93.0
+1790,1790,Katra Bazar,Addition,March,379.0
+1791,1791,Katra Bazar,Addition,April,332.0
+1792,1792,Katra Bazar,Addition,May,279.0
+1793,1793,Katra Bazar,Deletion,March,14.0
+1794,1794,Katra Bazar,Deletion,April,32.0
+1795,1795,Katra Bazar,Deletion,May,10.0
+1796,1796,Katra Bazar,Modification,March,228.0
+1797,1797,Katra Bazar,Modification,April,258.0
+1798,1798,Katra Bazar,Modification,May,178.0
+1799,1799,Kerakat,Addition,March,324.0
+1800,1800,Kerakat,Addition,April,540.0
+1801,1801,Kerakat,Addition,May,573.0
+1802,1802,Kerakat,Deletion,March,26.0
+1803,1803,Kerakat,Deletion,April,46.0
+1804,1804,Kerakat,Deletion,May,102.0
+1805,1805,Kerakat,Modification,March,110.0
+1806,1806,Kerakat,Modification,April,163.0
+1807,1807,Kerakat,Modification,May,127.0
+1808,1808,Khadda,Addition,March,153.0
+1809,1809,Khadda,Addition,April,148.0
+1810,1810,Khadda,Addition,May,119.0
+1811,1811,Khadda,Deletion,March,6.0
+1812,1812,Khadda,Deletion,April,23.0
+1813,1813,Khadda,Modification,March,82.0
+1814,1814,Khadda,Modification,April,94.0
+1815,1815,Khadda,Modification,May,65.0
+1816,1816,Khaga,Addition,March,53.0
+1817,1817,Khaga,Addition,April,134.0
+1818,1818,Khaga,Addition,May,151.0
+1819,1819,Khaga,Deletion,March,8.0
+1820,1820,Khaga,Deletion,April,186.0
+1821,1821,Khaga,Deletion,May,89.0
+1822,1822,Khaga,Modification,April,84.0
+1823,1823,Khaga,Modification,May,80.0
+1824,1824,Khair,Addition,March,121.0
+1825,1825,Khair,Addition,April,156.0
+1826,1826,Khair,Addition,May,174.0
+1827,1827,Khair,Deletion,March,27.0
+1828,1828,Khair,Deletion,April,44.0
+1829,1829,Khair,Deletion,May,21.0
+1830,1830,Khair,Modification,March,152.0
+1831,1831,Khair,Modification,April,138.0
+1832,1832,Khair,Modification,May,155.0
+1833,1833,Khajani,Addition,March,445.0
+1834,1834,Khajani,Addition,April,373.0
+1835,1835,Khajani,Addition,May,177.0
+1836,1836,Khajani,Deletion,March,43.0
+1837,1837,Khajani,Deletion,April,60.0
+1838,1838,Khajani,Deletion,May,3.0
+1839,1839,Khajani,Modification,March,313.0
+1840,1840,Khajani,Modification,April,163.0
+1841,1841,Khajani,Modification,May,113.0
+1842,1842,Khalilabad,Addition,March,484.0
+1843,1843,Khalilabad,Addition,April,339.0
+1844,1844,Khalilabad,Addition,May,366.0
+1845,1845,Khalilabad,Deletion,March,37.0
+1846,1846,Khalilabad,Deletion,April,23.0
+1847,1847,Khalilabad,Deletion,May,9.0
+1848,1848,Khalilabad,Modification,March,303.0
+1849,1849,Khalilabad,Modification,April,238.0
+1850,1850,Khalilabad,Modification,May,283.0
+1851,1851,Khatauli,Addition,March,263.0
+1852,1852,Khatauli,Addition,April,77.0
+1853,1853,Khatauli,Addition,May,105.0
+1854,1854,Khatauli,Deletion,March,37.0
+1855,1855,Khatauli,Deletion,April,50.0
+1856,1856,Khatauli,Deletion,May,17.0
+1857,1857,Khatauli,Modification,March,359.0
+1858,1858,Khatauli,Modification,April,145.0
+1859,1859,Khatauli,Modification,May,113.0
+1860,1860,Kheragarh,Addition,March,400.0
+1861,1861,Kheragarh,Addition,April,288.0
+1862,1862,Kheragarh,Addition,May,281.0
+1863,1863,Kheragarh,Deletion,March,14.0
+1864,1864,Kheragarh,Deletion,April,31.0
+1865,1865,Kheragarh,Deletion,May,11.0
+1866,1866,Kheragarh,Modification,March,252.0
+1867,1867,Kheragarh,Modification,April,177.0
+1868,1868,Kheragarh,Modification,May,166.0
+1869,1869,Khurja,Addition,March,205.0
+1870,1870,Khurja,Addition,April,193.0
+1871,1871,Khurja,Addition,May,275.0
+1872,1872,Khurja,Deletion,March,117.0
+1873,1873,Khurja,Deletion,April,100.0
+1874,1874,Khurja,Deletion,May,43.0
+1875,1875,Khurja,Modification,March,214.0
+1876,1876,Khurja,Modification,April,132.0
+1877,1877,Khurja,Modification,May,122.0
+1878,1878,Kidwai Nagar,Addition,March,244.0
+1879,1879,Kidwai Nagar,Addition,April,173.0
+1880,1880,Kidwai Nagar,Addition,May,103.0
+1881,1881,Kidwai Nagar,Deletion,March,27.0
+1882,1882,Kidwai Nagar,Deletion,April,153.0
+1883,1883,Kidwai Nagar,Deletion,May,28.0
+1884,1884,Kidwai Nagar,Modification,March,119.0
+1885,1885,Kidwai Nagar,Modification,April,155.0
+1886,1886,Kidwai Nagar,Modification,May,119.0
+1887,1887,Kishani,Addition,March,150.0
+1888,1888,Kishani,Addition,April,116.0
+1889,1889,Kishani,Addition,May,122.0
+1890,1890,Kishani,Deletion,March,30.0
+1891,1891,Kishani,Deletion,April,44.0
+1892,1892,Kishani,Deletion,May,52.0
+1893,1893,Kishani,Modification,March,96.0
+1894,1894,Kishani,Modification,April,64.0
+1895,1895,Kishani,Modification,May,60.0
+1896,1896,Kithore,Addition,March,162.0
+1897,1897,Kithore,Addition,April,194.0
+1898,1898,Kithore,Addition,May,101.0
+1899,1899,Kithore,Deletion,March,12.0
+1900,1900,Kithore,Deletion,April,39.0
+1901,1901,Kithore,Deletion,May,9.0
+1902,1902,Kithore,Modification,March,171.0
+1903,1903,Kithore,Modification,April,188.0
+1904,1904,Kithore,Modification,May,157.0
+1905,1905,Koil,Addition,March,640.0
+1906,1906,Koil,Addition,April,110.0
+1907,1907,Koil,Addition,May,159.0
+1908,1908,Koil,Deletion,March,111.0
+1909,1909,Koil,Deletion,April,78.0
+1910,1910,Koil,Deletion,May,27.0
+1911,1911,Koil,Modification,March,585.0
+1912,1912,Koil,Modification,April,213.0
+1913,1913,Koil,Modification,May,209.0
+1914,1914,Koraon,Addition,March,280.0
+1915,1915,Koraon,Addition,April,247.0
+1916,1916,Koraon,Addition,May,232.0
+1917,1917,Koraon,Deletion,March,18.0
+1918,1918,Koraon,Deletion,April,18.0
+1919,1919,Koraon,Deletion,May,17.0
+1920,1920,Koraon,Modification,March,125.0
+1921,1921,Koraon,Modification,April,101.0
+1922,1922,Koraon,Modification,May,112.0
+1923,1923,Kunda,Addition,March,317.0
+1924,1924,Kunda,Addition,April,250.0
+1925,1925,Kunda,Addition,May,289.0
+1926,1926,Kunda,Deletion,March,15.0
+1927,1927,Kunda,Deletion,April,40.0
+1928,1928,Kunda,Deletion,May,7.0
+1929,1929,Kunda,Modification,March,104.0
+1930,1930,Kunda,Modification,April,114.0
+1931,1931,Kunda,Modification,May,103.0
+1932,1932,Kundarki,Addition,March,234.0
+1933,1933,Kundarki,Addition,April,252.0
+1934,1934,Kundarki,Addition,May,232.0
+1935,1935,Kundarki,Deletion,March,19.0
+1936,1936,Kundarki,Deletion,April,17.0
+1937,1937,Kundarki,Deletion,May,29.0
+1938,1938,Kundarki,Modification,March,258.0
+1939,1939,Kundarki,Modification,April,250.0
+1940,1940,Kundarki,Modification,May,196.0
+1941,1941,Kursi,Addition,March,157.0
+1942,1942,Kursi,Addition,April,128.0
+1943,1943,Kursi,Addition,May,145.0
+1944,1944,Kursi,Deletion,March,9.0
+1945,1945,Kursi,Deletion,April,9.0
+1946,1946,Kursi,Deletion,May,4.0
+1947,1947,Kursi,Modification,March,124.0
+1948,1948,Kursi,Modification,April,124.0
+1949,1949,Kursi,Modification,May,105.0
+1950,1950,Kushinagar,Addition,March,109.0
+1951,1951,Kushinagar,Addition,April,83.0
+1952,1952,Kushinagar,Addition,May,145.0
+1953,1953,Kushinagar,Deletion,March,16.0
+1954,1954,Kushinagar,Deletion,April,21.0
+1955,1955,Kushinagar,Deletion,May,3.0
+1956,1956,Kushinagar,Modification,March,100.0
+1957,1957,Kushinagar,Modification,April,98.0
+1958,1958,Kushinagar,Modification,May,85.0
+1959,1959,Laharpur,Addition,March,513.0
+1960,1960,Laharpur,Addition,April,200.0
+1961,1961,Laharpur,Addition,May,119.0
+1962,1962,Laharpur,Deletion,March,13.0
+1963,1963,Laharpur,Deletion,April,19.0
+1964,1964,Laharpur,Deletion,May,5.0
+1965,1965,Laharpur,Modification,March,120.0
+1966,1966,Laharpur,Modification,April,96.0
+1967,1967,Laharpur,Modification,May,76.0
+1968,1968,Lakhimpur,Addition,March,293.0
+1969,1969,Lakhimpur,Addition,April,221.0
+1970,1970,Lakhimpur,Addition,May,223.0
+1971,1971,Lakhimpur,Deletion,March,25.0
+1972,1972,Lakhimpur,Deletion,April,26.0
+1973,1973,Lakhimpur,Deletion,May,56.0
+1974,1974,Lakhimpur,Modification,March,108.0
+1975,1975,Lakhimpur,Modification,April,165.0
+1976,1976,Lakhimpur,Modification,May,100.0
+1977,1977,Lalganj,Addition,March,157.0
+1978,1978,Lalganj,Addition,April,298.0
+1979,1979,Lalganj,Addition,May,128.0
+1980,1980,Lalganj,Deletion,March,38.0
+1981,1981,Lalganj,Deletion,April,43.0
+1982,1982,Lalganj,Deletion,May,35.0
+1983,1983,Lalganj,Modification,March,87.0
+1984,1984,Lalganj,Modification,April,275.0
+1985,1985,Lalganj,Modification,May,161.0
+1986,1986,Lalitpur,Addition,March,189.0
+1987,1987,Lalitpur,Addition,April,221.0
+1988,1988,Lalitpur,Addition,May,205.0
+1989,1989,Lalitpur,Deletion,March,27.0
+1990,1990,Lalitpur,Deletion,April,29.0
+1991,1991,Lalitpur,Deletion,May,15.0
+1992,1992,Lalitpur,Modification,March,235.0
+1993,1993,Lalitpur,Modification,April,131.0
+1994,1994,Lalitpur,Modification,May,155.0
+1995,1995,Lambhua,Addition,March,401.0
+1996,1996,Lambhua,Addition,April,325.0
+1997,1997,Lambhua,Addition,May,326.0
+1998,1998,Lambhua,Deletion,March,18.0
+1999,1999,Lambhua,Deletion,April,40.0
+2000,2000,Lambhua,Deletion,May,14.0
+2001,2001,Lambhua,Modification,March,286.0
+2002,2002,Lambhua,Modification,April,193.0
+2003,2003,Lambhua,Modification,May,223.0
+2004,2004,Loni,Addition,March,670.0
+2005,2005,Loni,Addition,April,465.0
+2006,2006,Loni,Addition,May,525.0
+2007,2007,Loni,Deletion,March,160.0
+2008,2008,Loni,Deletion,April,198.0
+2009,2009,Loni,Deletion,May,83.0
+2010,2010,Loni,Modification,March,353.0
+2011,2011,Loni,Modification,April,349.0
+2012,2012,Loni,Modification,May,346.0
+2013,2013,Lucknow Cantt,Addition,March,137.0
+2014,2014,Lucknow Cantt,Addition,April,190.0
+2015,2015,Lucknow Cantt,Addition,May,121.0
+2016,2016,Lucknow Cantt,Deletion,March,33.0
+2017,2017,Lucknow Cantt,Deletion,April,177.0
+2018,2018,Lucknow Cantt,Deletion,May,11.0
+2019,2019,Lucknow Cantt,Modification,March,101.0
+2020,2020,Lucknow Cantt,Modification,April,190.0
+2021,2021,Lucknow Cantt,Modification,May,94.0
+2022,2022,Lucknow Central,Addition,March,117.0
+2023,2023,Lucknow Central,Addition,April,167.0
+2024,2024,Lucknow Central,Addition,May,174.0
+2025,2025,Lucknow Central,Deletion,March,74.0
+2026,2026,Lucknow Central,Deletion,April,225.0
+2027,2027,Lucknow Central,Deletion,May,38.0
+2028,2028,Lucknow Central,Modification,March,149.0
+2029,2029,Lucknow Central,Modification,April,160.0
+2030,2030,Lucknow Central,Modification,May,150.0
+2031,2031,Lucknow East,Addition,March,234.0
+2032,2032,Lucknow East,Addition,April,241.0
+2033,2033,Lucknow East,Addition,May,214.0
+2034,2034,Lucknow East,Deletion,March,73.0
+2035,2035,Lucknow East,Deletion,April,362.0
+2036,2036,Lucknow East,Deletion,May,49.0
+2037,2037,Lucknow East,Modification,March,226.0
+2038,2038,Lucknow East,Modification,April,266.0
+2039,2039,Lucknow East,Modification,May,170.0
+2040,2040,Lucknow North,Addition,March,739.0
+2041,2041,Lucknow North,Addition,April,296.0
+2042,2042,Lucknow North,Addition,May,315.0
+2043,2043,Lucknow North,Deletion,March,42.0
+2044,2044,Lucknow North,Deletion,April,297.0
+2045,2045,Lucknow North,Deletion,May,23.0
+2046,2046,Lucknow North,Modification,April,225.0
+2047,2047,Lucknow North,Modification,May,185.0
+2048,2048,Lucknow West,Addition,March,356.0
+2049,2049,Lucknow West,Addition,April,311.0
+2050,2050,Lucknow West,Addition,May,398.0
+2051,2051,Lucknow West,Deletion,March,15.0
+2052,2052,Lucknow West,Deletion,April,112.0
+2053,2053,Lucknow West,Deletion,May,27.0
+2054,2054,Lucknow West,Modification,March,177.0
+2055,2055,Lucknow West,Modification,April,209.0
+2056,2056,Lucknow West,Modification,May,232.0
+2057,2057,Machhlishahr,Addition,March,361.0
+2058,2058,Machhlishahr,Addition,April,281.0
+2059,2059,Machhlishahr,Addition,May,343.0
+2060,2060,Machhlishahr,Deletion,March,28.0
+2061,2061,Machhlishahr,Deletion,April,54.0
+2062,2062,Machhlishahr,Deletion,May,40.0
+2063,2063,Machhlishahr,Modification,March,220.0
+2064,2064,Machhlishahr,Modification,April,250.0
+2065,2065,Machhlishahr,Modification,May,181.0
+2066,2066,Madhaugarh,Addition,March,263.0
+2067,2067,Madhaugarh,Addition,April,257.0
+2068,2068,Madhaugarh,Addition,May,197.0
+2069,2069,Madhaugarh,Deletion,March,24.0
+2070,2070,Madhaugarh,Deletion,April,52.0
+2071,2071,Madhaugarh,Deletion,May,10.0
+2072,2072,Madhaugarh,Modification,March,155.0
+2073,2073,Madhaugarh,Modification,April,138.0
+2074,2074,Madhaugarh,Modification,May,114.0
+2075,2075,Madhuban,Addition,March,246.0
+2076,2076,Madhuban,Addition,April,178.0
+2077,2077,Madhuban,Addition,May,203.0
+2078,2078,Madhuban,Deletion,March,17.0
+2079,2079,Madhuban,Deletion,April,44.0
+2080,2080,Madhuban,Deletion,May,14.0
+2081,2081,Madhuban,Modification,March,233.0
+2082,2082,Madhuban,Modification,April,156.0
+2083,2083,Madhuban,Modification,May,158.0
+2084,2084,Mahadewa,Addition,March,247.0
+2085,2085,Mahadewa,Addition,April,228.0
+2086,2086,Mahadewa,Addition,May,215.0
+2087,2087,Mahadewa,Deletion,March,40.0
+2088,2088,Mahadewa,Deletion,April,60.0
+2089,2089,Mahadewa,Deletion,May,27.0
+2090,2090,Mahadewa,Modification,March,156.0
+2091,2091,Mahadewa,Modification,April,138.0
+2092,2092,Mahadewa,Modification,May,127.0
+2093,2093,Maharajganj,Addition,March,407.0
+2094,2094,Maharajganj,Addition,April,357.0
+2095,2095,Maharajganj,Addition,May,349.0
+2096,2096,Maharajganj,Deletion,March,7.0
+2097,2097,Maharajganj,Deletion,April,14.0
+2098,2098,Maharajganj,Deletion,May,35.0
+2099,2099,Maharajganj,Modification,March,227.0
+2100,2100,Maharajganj,Modification,April,223.0
+2101,2101,Maharajganj,Modification,May,201.0
+2102,2102,Maharajpur,Addition,March,502.0
+2103,2103,Maharajpur,Addition,April,436.0
+2104,2104,Maharajpur,Addition,May,473.0
+2105,2105,Maharajpur,Deletion,March,14.0
+2106,2106,Maharajpur,Deletion,April,130.0
+2107,2107,Maharajpur,Deletion,May,19.0
+2108,2108,Maharajpur,Modification,March,197.0
+2109,2109,Maharajpur,Modification,April,207.0
+2110,2110,Maharajpur,Modification,May,178.0
+2111,2111,Mahasi,Addition,March,514.0
+2112,2112,Mahasi,Addition,April,325.0
+2113,2113,Mahasi,Addition,May,438.0
+2114,2114,Mahasi,Deletion,March,5.0
+2115,2115,Mahasi,Deletion,April,6.0
+2116,2116,Mahasi,Deletion,May,10.0
+2117,2117,Mahasi,Modification,March,165.0
+2118,2118,Mahasi,Modification,April,128.0
+2119,2119,Mahasi,Modification,May,90.0
+2120,2120,Mahmoodabad,Addition,March,249.0
+2121,2121,Mahmoodabad,Addition,April,189.0
+2122,2122,Mahmoodabad,Addition,May,145.0
+2123,2123,Mahmoodabad,Deletion,March,2.0
+2124,2124,Mahmoodabad,Deletion,April,18.0
+2125,2125,Mahmoodabad,Deletion,May,12.0
+2126,2126,Mahmoodabad,Modification,March,94.0
+2127,2127,Mahmoodabad,Modification,April,95.0
+2128,2128,Mahmoodabad,Modification,May,81.0
+2129,2129,Mahoba,Addition,March,263.0
+2130,2130,Mahoba,Addition,April,284.0
+2131,2131,Mahoba,Addition,May,231.0
+2132,2132,Mahoba,Deletion,March,25.0
+2133,2133,Mahoba,Deletion,April,51.0
+2134,2134,Mahoba,Deletion,May,12.0
+2135,2135,Mahoba,Modification,March,142.0
+2136,2136,Mahoba,Modification,April,160.0
+2137,2137,Mahoba,Modification,May,133.0
+2138,2138,Maholi,Addition,March,187.0
+2139,2139,Maholi,Addition,April,139.0
+2140,2140,Maholi,Addition,May,93.0
+2141,2141,Maholi,Deletion,March,23.0
+2142,2142,Maholi,Deletion,April,19.0
+2143,2143,Maholi,Deletion,May,6.0
+2144,2144,Maholi,Modification,March,78.0
+2145,2145,Maholi,Modification,April,103.0
+2146,2146,Maholi,Modification,May,51.0
+2147,2147,Mainpuri,Addition,March,307.0
+2148,2148,Mainpuri,Addition,April,155.0
+2149,2149,Mainpuri,Addition,May,127.0
+2150,2150,Mainpuri,Deletion,March,25.0
+2151,2151,Mainpuri,Deletion,April,40.0
+2152,2152,Mainpuri,Deletion,May,5.0
+2153,2153,Mainpuri,Modification,March,163.0
+2154,2154,Mainpuri,Modification,April,124.0
+2155,2155,Mainpuri,Modification,May,99.0
+2156,2156,Majhawan,Addition,March,613.0
+2157,2157,Majhawan,Addition,April,343.0
+2158,2158,Majhawan,Addition,May,392.0
+2159,2159,Majhawan,Deletion,March,10.0
+2160,2160,Majhawan,Deletion,April,22.0
+2161,2161,Majhawan,Deletion,May,3.0
+2162,2162,Majhawan,Modification,March,218.0
+2163,2163,Majhawan,Modification,April,139.0
+2164,2164,Majhawan,Modification,May,151.0
+2165,2165,Malhani,Addition,March,416.0
+2166,2166,Malhani,Addition,April,422.0
+2167,2167,Malhani,Addition,May,390.0
+2168,2168,Malhani,Deletion,March,23.0
+2169,2169,Malhani,Deletion,April,29.0
+2170,2170,Malhani,Deletion,May,10.0
+2171,2171,Malhani,Modification,March,187.0
+2172,2172,Malhani,Modification,April,218.0
+2173,2173,Malhani,Modification,May,165.0
+2174,2174,Malihabad,Addition,March,154.0
+2175,2175,Malihabad,Addition,April,183.0
+2176,2176,Malihabad,Addition,May,144.0
+2177,2177,Malihabad,Deletion,March,3.0
+2178,2178,Malihabad,Deletion,April,17.0
+2179,2179,Malihabad,Deletion,May,32.0
+2180,2180,Malihabad,Modification,March,78.0
+2181,2181,Malihabad,Modification,April,122.0
+2182,2182,Malihabad,Modification,May,131.0
+2183,2183,Manikpur,Addition,March,27.0
+2184,2184,Manikpur,Addition,April,268.0
+2185,2185,Manikpur,Addition,May,159.0
+2186,2186,Manikpur,Deletion,March,7.0
+2187,2187,Manikpur,Deletion,April,24.0
+2188,2188,Manikpur,Deletion,May,4.0
+2189,2189,Manikpur,Modification,March,59.0
+2190,2190,Manikpur,Modification,April,221.0
+2191,2191,Manikpur,Modification,May,140.0
+2192,2192,Manjhanpur,Addition,March,157.0
+2193,2193,Manjhanpur,Addition,April,135.0
+2194,2194,Manjhanpur,Addition,May,116.0
+2195,2195,Manjhanpur,Deletion,March,10.0
+2196,2196,Manjhanpur,Deletion,April,12.0
+2197,2197,Manjhanpur,Deletion,May,9.0
+2198,2198,Manjhanpur,Modification,March,101.0
+2199,2199,Manjhanpur,Modification,April,99.0
+2200,2200,Manjhanpur,Modification,May,91.0
+2201,2201,Mankapur,Addition,March,346.0
+2202,2202,Mankapur,Addition,April,84.0
+2203,2203,Mankapur,Addition,May,32.0
+2204,2204,Mankapur,Deletion,March,13.0
+2205,2205,Mankapur,Deletion,April,36.0
+2206,2206,Mankapur,Deletion,May,8.0
+2207,2207,Mankapur,Modification,March,385.0
+2208,2208,Mankapur,Modification,April,94.0
+2209,2209,Mankapur,Modification,May,82.0
+2210,2210,Mant,Addition,March,114.0
+2211,2211,Mant,Addition,April,128.0
+2212,2212,Mant,Addition,May,141.0
+2213,2213,Mant,Deletion,March,16.0
+2214,2214,Mant,Deletion,April,37.0
+2215,2215,Mant,Deletion,May,20.0
+2216,2216,Mant,Modification,March,121.0
+2217,2217,Mant,Modification,April,106.0
+2218,2218,Mant,Modification,May,104.0
+2219,2219,Marhara,Addition,March,148.0
+2220,2220,Marhara,Addition,April,165.0
+2221,2221,Marhara,Addition,May,126.0
+2222,2222,Marhara,Deletion,March,19.0
+2223,2223,Marhara,Deletion,April,50.0
+2224,2224,Marhara,Deletion,May,24.0
+2225,2225,Marhara,Modification,March,73.0
+2226,2226,Marhara,Modification,April,89.0
+2227,2227,Marhara,Modification,May,71.0
+2228,2228,Marihan,Addition,March,316.0
+2229,2229,Marihan,Addition,April,300.0
+2230,2230,Marihan,Addition,May,328.0
+2231,2231,Marihan,Deletion,March,13.0
+2232,2232,Marihan,Deletion,April,11.0
+2233,2233,Marihan,Deletion,May,13.0
+2234,2234,Marihan,Modification,March,146.0
+2235,2235,Marihan,Modification,April,150.0
+2236,2236,Marihan,Modification,May,126.0
+2237,2237,Mariyahu,Addition,March,524.0
+2238,2238,Mariyahu,Addition,April,399.0
+2239,2239,Mariyahu,Addition,May,687.0
+2240,2240,Mariyahu,Deletion,March,23.0
+2241,2241,Mariyahu,Deletion,April,31.0
+2242,2242,Mariyahu,Deletion,May,254.0
+2243,2243,Mariyahu,Modification,March,130.0
+2244,2244,Mariyahu,Modification,April,174.0
+2245,2245,Mariyahu,Modification,May,137.0
+2246,2246,Matera,Addition,March,445.0
+2247,2247,Matera,Addition,April,262.0
+2248,2248,Matera,Addition,May,141.0
+2249,2249,Matera,Deletion,March,80.0
+2250,2250,Matera,Deletion,April,18.0
+2251,2251,Matera,Deletion,May,12.0
+2252,2252,Matera,Modification,March,337.0
+2253,2253,Matera,Modification,April,124.0
+2254,2254,Matera,Modification,May,93.0
+2255,2255,Mathura,Addition,March,386.0
+2256,2256,Mathura,Addition,April,348.0
+2257,2257,Mathura,Addition,May,413.0
+2258,2258,Mathura,Deletion,March,59.0
+2259,2259,Mathura,Deletion,April,151.0
+2260,2260,Mathura,Deletion,May,38.0
+2261,2261,Mathura,Modification,March,173.0
+2262,2262,Mathura,Modification,April,203.0
+2263,2263,Mathura,Modification,May,170.0
+2264,2264,Mau,Addition,March,231.0
+2265,2265,Mau,Addition,April,271.0
+2266,2266,Mau,Addition,May,269.0
+2267,2267,Mau,Deletion,March,39.0
+2268,2268,Mau,Deletion,April,30.0
+2269,2269,Mau,Deletion,May,12.0
+2270,2270,Mau,Modification,March,229.0
+2271,2271,Mau,Modification,April,197.0
+2272,2272,Mau,Modification,May,210.0
+2273,2273,Mauranipur,Addition,March,403.0
+2274,2274,Mauranipur,Addition,April,318.0
+2275,2275,Mauranipur,Addition,May,407.0
+2276,2276,Mauranipur,Deletion,March,156.0
+2277,2277,Mauranipur,Deletion,April,137.0
+2278,2278,Mauranipur,Deletion,May,217.0
+2279,2279,Mauranipur,Modification,March,210.0
+2280,2280,Mauranipur,Modification,April,212.0
+2281,2281,Mauranipur,Modification,May,223.0
+2282,2282,Meerapur,Addition,March,234.0
+2283,2283,Meerapur,Addition,April,92.0
+2284,2284,Meerapur,Addition,May,107.0
+2285,2285,Meerapur,Deletion,March,25.0
+2286,2286,Meerapur,Deletion,April,14.0
+2287,2287,Meerapur,Deletion,May,7.0
+2288,2288,Meerapur,Modification,March,196.0
+2289,2289,Meerapur,Modification,April,77.0
+2290,2290,Meerapur,Modification,May,75.0
+2291,2291,Meerganj,Addition,March,188.0
+2292,2292,Meerganj,Addition,April,205.0
+2293,2293,Meerganj,Addition,May,189.0
+2294,2294,Meerganj,Deletion,March,25.0
+2295,2295,Meerganj,Deletion,April,30.0
+2296,2296,Meerganj,Deletion,May,7.0
+2297,2297,Meerganj,Modification,March,146.0
+2298,2298,Meerganj,Modification,April,153.0
+2299,2299,Meerganj,Modification,May,137.0
+2300,2300,Meerut,Addition,March,92.0
+2301,2301,Meerut,Addition,April,62.0
+2302,2302,Meerut,Addition,May,87.0
+2303,2303,Meerut,Deletion,March,31.0
+2304,2304,Meerut,Deletion,April,92.0
+2305,2305,Meerut,Deletion,May,9.0
+2306,2306,Meerut,Modification,March,209.0
+2307,2307,Meerut,Modification,April,186.0
+2308,2308,Meerut,Modification,May,197.0
+2309,2309,Meerut Cantt,Addition,March,37.0
+2310,2310,Meerut Cantt,Addition,April,60.0
+2311,2311,Meerut Cantt,Addition,May,54.0
+2312,2312,Meerut Cantt,Deletion,March,33.0
+2313,2313,Meerut Cantt,Deletion,April,150.0
+2314,2314,Meerut Cantt,Deletion,May,43.0
+2315,2315,Meerut Cantt,Modification,March,72.0
+2316,2316,Meerut Cantt,Modification,April,81.0
+2317,2317,Meerut Cantt,Modification,May,65.0
+2318,2318,Meerut South,Addition,March,540.0
+2319,2319,Meerut South,Addition,April,1110.0
+2320,2320,Meerut South,Addition,May,492.0
+2321,2321,Meerut South,Deletion,March,47.0
+2322,2322,Meerut South,Deletion,April,209.0
+2323,2323,Meerut South,Deletion,May,26.0
+2324,2324,Meerut South,Modification,March,384.0
+2325,2325,Meerut South,Modification,April,352.0
+2326,2326,Meerut South,Modification,May,240.0
+2327,2327,Mehnagar,Addition,March,371.0
+2328,2328,Mehnagar,Addition,April,202.0
+2329,2329,Mehnagar,Addition,May,152.0
+2330,2330,Mehnagar,Deletion,March,41.0
+2331,2331,Mehnagar,Deletion,April,49.0
+2332,2332,Mehnagar,Deletion,May,32.0
+2333,2333,Mehnagar,Modification,March,265.0
+2334,2334,Mehnagar,Modification,April,195.0
+2335,2335,Mehnagar,Modification,May,171.0
+2336,2336,Mehnaun,Addition,March,296.0
+2337,2337,Mehnaun,Addition,April,166.0
+2338,2338,Mehnaun,Addition,May,154.0
+2339,2339,Mehnaun,Deletion,March,52.0
+2340,2340,Mehnaun,Deletion,April,22.0
+2341,2341,Mehnaun,Deletion,May,1.0
+2342,2342,Mehnaun,Modification,March,210.0
+2343,2343,Mehnaun,Modification,April,126.0
+2344,2344,Mehnaun,Modification,May,128.0
+2345,2345,Mehroni,Addition,March,182.0
+2346,2346,Mehroni,Addition,April,93.0
+2347,2347,Mehroni,Addition,May,70.0
+2348,2348,Mehroni,Deletion,March,18.0
+2349,2349,Mehroni,Deletion,April,14.0
+2350,2350,Mehroni,Deletion,May,1.0
+2351,2351,Mehroni,Modification,March,176.0
+2352,2352,Mehroni,Modification,April,139.0
+2353,2353,Mehroni,Modification,May,133.0
+2354,2354,Meja,Addition,March,321.0
+2355,2355,Meja,Addition,April,409.0
+2356,2356,Meja,Addition,May,242.0
+2357,2357,Meja,Deletion,March,7.0
+2358,2358,Meja,Deletion,April,67.0
+2359,2359,Meja,Deletion,May,13.0
+2360,2360,Meja,Modification,March,122.0
+2361,2361,Meja,Modification,April,173.0
+2362,2362,Meja,Modification,May,135.0
+2363,2363,Menhdawal,Addition,March,536.0
+2364,2364,Menhdawal,Addition,April,493.0
+2365,2365,Menhdawal,Addition,May,610.0
+2366,2366,Menhdawal,Deletion,March,10.0
+2367,2367,Menhdawal,Deletion,April,23.0
+2368,2368,Menhdawal,Deletion,May,6.0
+2369,2369,Menhdawal,Modification,March,228.0
+2370,2370,Menhdawal,Modification,April,300.0
+2371,2371,Menhdawal,Modification,May,225.0
+2372,2372,Milak,Addition,March,193.0
+2373,2373,Milak,Addition,April,215.0
+2374,2374,Milak,Addition,May,266.0
+2375,2375,Milak,Deletion,March,21.0
+2376,2376,Milak,Deletion,April,35.0
+2377,2377,Milak,Deletion,May,20.0
+2378,2378,Milak,Modification,March,131.0
+2379,2379,Milak,Modification,April,111.0
+2380,2380,Milak,Modification,May,133.0
+2381,2381,Milkipur,Addition,March,718.0
+2382,2382,Milkipur,Addition,April,212.0
+2383,2383,Milkipur,Addition,May,128.0
+2384,2384,Milkipur,Deletion,March,192.0
+2385,2385,Milkipur,Deletion,April,22.0
+2386,2386,Milkipur,Deletion,May,11.0
+2387,2387,Milkipur,Modification,March,506.0
+2388,2388,Milkipur,Modification,April,148.0
+2389,2389,Milkipur,Modification,May,130.0
+2390,2390,Mirzapur,Addition,March,240.0
+2391,2391,Mirzapur,Addition,April,245.0
+2392,2392,Mirzapur,Addition,May,372.0
+2393,2393,Mirzapur,Deletion,March,19.0
+2394,2394,Mirzapur,Deletion,April,32.0
+2395,2395,Mirzapur,Deletion,May,5.0
+2396,2396,Mirzapur,Modification,March,123.0
+2397,2397,Mirzapur,Modification,April,149.0
+2398,2398,Mirzapur,Modification,May,121.0
+2399,2399,Misrikh,Addition,March,100.0
+2400,2400,Misrikh,Addition,April,126.0
+2401,2401,Misrikh,Addition,May,101.0
+2402,2402,Misrikh,Deletion,March,3.0
+2403,2403,Misrikh,Deletion,April,24.0
+2404,2404,Misrikh,Deletion,May,13.0
+2405,2405,Misrikh,Modification,March,53.0
+2406,2406,Misrikh,Modification,April,62.0
+2407,2407,Misrikh,Modification,May,44.0
+2408,2408,Modi Nagar,Addition,March,222.0
+2409,2409,Modi Nagar,Addition,April,251.0
+2410,2410,Modi Nagar,Addition,May,209.0
+2411,2411,Modi Nagar,Deletion,March,43.0
+2412,2412,Modi Nagar,Deletion,April,71.0
+2413,2413,Modi Nagar,Deletion,May,14.0
+2414,2414,Modi Nagar,Modification,March,140.0
+2415,2415,Modi Nagar,Modification,April,168.0
+2416,2416,Modi Nagar,Modification,May,131.0
+2417,2417,Mohammadabad,Addition,March,189.0
+2418,2418,Mohammadabad,Addition,April,126.0
+2419,2419,Mohammadabad,Addition,May,134.0
+2420,2420,Mohammadabad,Deletion,March,29.0
+2421,2421,Mohammadabad,Deletion,April,38.0
+2422,2422,Mohammadabad,Deletion,May,20.0
+2423,2423,Mohammadabad,Modification,March,88.0
+2424,2424,Mohammadabad,Modification,April,69.0
+2425,2425,Mohammadabad,Modification,May,75.0
+2426,2426,Mohammdi,Addition,March,157.0
+2427,2427,Mohammdi,Addition,April,125.0
+2428,2428,Mohammdi,Addition,May,122.0
+2429,2429,Mohammdi,Deletion,March,6.0
+2430,2430,Mohammdi,Deletion,April,11.0
+2431,2431,Mohammdi,Deletion,May,8.0
+2432,2432,Mohammdi,Modification,March,115.0
+2433,2433,Mohammdi,Modification,April,123.0
+2434,2434,Mohammdi,Modification,May,72.0
+2435,2435,Mohan,Addition,March,115.0
+2436,2436,Mohan,Addition,April,38.0
+2437,2437,Mohan,Addition,May,64.0
+2438,2438,Mohan,Deletion,March,8.0
+2439,2439,Mohan,Deletion,April,13.0
+2440,2440,Mohan,Deletion,May,5.0
+2441,2441,Mohan,Modification,March,48.0
+2442,2442,Mohan,Modification,April,30.0
+2443,2443,Mohan,Modification,May,70.0
+2444,2444,Mohanlalganj,Addition,March,131.0
+2445,2445,Mohanlalganj,Addition,April,190.0
+2446,2446,Mohanlalganj,Addition,May,106.0
+2447,2447,Mohanlalganj,Deletion,March,36.0
+2448,2448,Mohanlalganj,Deletion,April,46.0
+2449,2449,Mohanlalganj,Deletion,May,33.0
+2450,2450,Mohanlalganj,Modification,March,82.0
+2451,2451,Mohanlalganj,Modification,April,84.0
+2452,2452,Mohanlalganj,Modification,May,43.0
+2453,2453,Moradabad Nagar,Addition,March,615.0
+2454,2454,Moradabad Nagar,Addition,April,936.0
+2455,2455,Moradabad Nagar,Addition,May,609.0
+2456,2456,Moradabad Nagar,Deletion,March,27.0
+2457,2457,Moradabad Nagar,Deletion,April,78.0
+2458,2458,Moradabad Nagar,Deletion,May,22.0
+2459,2459,Moradabad Nagar,Modification,March,352.0
+2460,2460,Moradabad Nagar,Modification,April,386.0
+2461,2461,Moradabad Nagar,Modification,May,386.0
+2462,2462,Moradabad Rural,Addition,March,337.0
+2463,2463,Moradabad Rural,Addition,April,241.0
+2464,2464,Moradabad Rural,Addition,May,213.0
+2465,2465,Moradabad Rural,Deletion,March,28.0
+2466,2466,Moradabad Rural,Deletion,April,71.0
+2467,2467,Moradabad Rural,Deletion,May,16.0
+2468,2468,Moradabad Rural,Modification,March,219.0
+2469,2469,Moradabad Rural,Modification,April,190.0
+2470,2470,Moradabad Rural,Modification,May,206.0
+2471,2471,Mubarakpur,Addition,March,254.0
+2472,2472,Mubarakpur,Addition,April,233.0
+2473,2473,Mubarakpur,Addition,May,222.0
+2474,2474,Mubarakpur,Deletion,March,19.0
+2475,2475,Mubarakpur,Deletion,April,28.0
+2476,2476,Mubarakpur,Deletion,May,23.0
+2477,2477,Mubarakpur,Modification,March,150.0
+2478,2478,Mubarakpur,Modification,April,155.0
+2479,2479,Mubarakpur,Modification,May,137.0
+2480,2480,Mughalsarai,Addition,March,931.0
+2481,2481,Mughalsarai,Addition,April,984.0
+2482,2482,Mughalsarai,Addition,May,940.0
+2483,2483,Mughalsarai,Deletion,March,47.0
+2484,2484,Mughalsarai,Deletion,April,80.0
+2485,2485,Mughalsarai,Deletion,May,27.0
+2486,2486,Mughalsarai,Modification,March,199.0
+2487,2487,Mughalsarai,Modification,April,201.0
+2488,2488,Mughalsarai,Modification,May,204.0
+2489,2489,Muhammadabad- Gohna (SC),Addition,March,525.0
+2490,2490,Muhammadabad- Gohna (SC),Addition,April,247.0
+2491,2491,Muhammadabad- Gohna (SC),Addition,May,151.0
+2492,2492,Muhammadabad- Gohna (SC),Deletion,March,7.0
+2493,2493,Muhammadabad- Gohna (SC),Deletion,April,32.0
+2494,2494,Muhammadabad- Gohna (SC),Deletion,May,8.0
+2495,2495,Muhammadabad- Gohna (SC),Modification,March,233.0
+2496,2496,Muhammadabad- Gohna (SC),Modification,April,190.0
+2497,2497,Muhammadabad- Gohna (SC),Modification,May,160.0
+2498,2498,Mungra Badshahpur,Addition,March,327.0
+2499,2499,Mungra Badshahpur,Addition,April,226.0
+2500,2500,Mungra Badshahpur,Addition,May,204.0
+2501,2501,Mungra Badshahpur,Deletion,March,40.0
+2502,2502,Mungra Badshahpur,Deletion,April,35.0
+2503,2503,Mungra Badshahpur,Deletion,May,31.0
+2504,2504,Mungra Badshahpur,Modification,March,200.0
+2505,2505,Mungra Badshahpur,Modification,April,184.0
+2506,2506,Mungra Badshahpur,Modification,May,165.0
+2507,2507,Muradnagar,Addition,March,604.0
+2508,2508,Muradnagar,Addition,April,428.0
+2509,2509,Muradnagar,Addition,May,411.0
+2510,2510,Muradnagar,Deletion,March,81.0
+2511,2511,Muradnagar,Deletion,April,283.0
+2512,2512,Muradnagar,Deletion,May,50.0
+2513,2513,Muradnagar,Modification,March,260.0
+2514,2514,Muradnagar,Modification,April,277.0
+2515,2515,Muradnagar,Modification,May,210.0
+2516,2516,Muzaffar Nagar,Addition,March,418.0
+2517,2517,Muzaffar Nagar,Addition,April,266.0
+2518,2518,Muzaffar Nagar,Addition,May,270.0
+2519,2519,Muzaffar Nagar,Deletion,March,38.0
+2520,2520,Muzaffar Nagar,Deletion,April,149.0
+2521,2521,Muzaffar Nagar,Deletion,May,39.0
+2522,2522,Muzaffar Nagar,Modification,March,293.0
+2523,2523,Muzaffar Nagar,Modification,April,313.0
+2524,2524,Muzaffar Nagar,Modification,May,230.0
+2525,2525,Nagina,Addition,March,160.0
+2526,2526,Nagina,Addition,April,110.0
+2527,2527,Nagina,Addition,May,175.0
+2528,2528,Nagina,Deletion,March,40.0
+2529,2529,Nagina,Deletion,April,222.0
+2530,2530,Nagina,Deletion,May,61.0
+2531,2531,Nagina,Modification,March,191.0
+2532,2532,Nagina,Modification,April,203.0
+2533,2533,Nagina,Modification,May,499.0
+2534,2534,Najibabad,Addition,March,302.0
+2535,2535,Najibabad,Addition,April,121.0
+2536,2536,Najibabad,Addition,May,177.0
+2537,2537,Najibabad,Deletion,March,42.0
+2538,2538,Najibabad,Deletion,April,57.0
+2539,2539,Najibabad,Deletion,May,17.0
+2540,2540,Najibabad,Modification,March,305.0
+2541,2541,Najibabad,Modification,April,269.0
+2542,2542,Najibabad,Modification,May,227.0
+2543,2543,Nakur,Addition,March,205.0
+2544,2544,Nakur,Addition,April,387.0
+2545,2545,Nakur,Addition,May,351.0
+2546,2546,Nakur,Deletion,March,37.0
+2547,2547,Nakur,Deletion,April,51.0
+2548,2548,Nakur,Deletion,May,52.0
+2549,2549,Nakur,Modification,March,233.0
+2550,2550,Nakur,Modification,April,288.0
+2551,2551,Nakur,Modification,May,250.0
+2552,2552,Nanpara,Addition,March,230.0
+2553,2553,Nanpara,Addition,April,694.0
+2554,2554,Nanpara,Addition,May,314.0
+2555,2555,Nanpara,Deletion,March,21.0
+2556,2556,Nanpara,Deletion,April,21.0
+2557,2557,Nanpara,Deletion,May,1.0
+2558,2558,Nanpara,Modification,March,75.0
+2559,2559,Nanpara,Modification,April,229.0
+2560,2560,Nanpara,Modification,May,122.0
+2561,2561,Naraini,Addition,March,202.0
+2562,2562,Naraini,Addition,April,153.0
+2563,2563,Naraini,Addition,May,190.0
+2564,2564,Naraini,Deletion,March,14.0
+2565,2565,Naraini,Deletion,April,20.0
+2566,2566,Naraini,Deletion,May,21.0
+2567,2567,Naraini,Modification,March,176.0
+2568,2568,Naraini,Modification,April,117.0
+2569,2569,Naraini,Modification,May,114.0
+2570,2570,Naugawan Sadat,Addition,March,153.0
+2571,2571,Naugawan Sadat,Addition,April,83.0
+2572,2572,Naugawan Sadat,Addition,May,124.0
+2573,2573,Naugawan Sadat,Deletion,March,29.0
+2574,2574,Naugawan Sadat,Deletion,April,30.0
+2575,2575,Naugawan Sadat,Deletion,May,37.0
+2576,2576,Naugawan Sadat,Modification,March,127.0
+2577,2577,Naugawan Sadat,Modification,April,129.0
+2578,2578,Naugawan Sadat,Modification,May,125.0
+2579,2579,Nautanwa,Addition,March,431.0
+2580,2580,Nautanwa,Addition,April,310.0
+2581,2581,Nautanwa,Addition,May,316.0
+2582,2582,Nautanwa,Deletion,March,18.0
+2583,2583,Nautanwa,Deletion,April,19.0
+2584,2584,Nautanwa,Deletion,May,24.0
+2585,2585,Nautanwa,Modification,March,256.0
+2586,2586,Nautanwa,Modification,April,260.0
+2587,2587,Nautanwa,Modification,May,204.0
+2588,2588,Nawabganj,Addition,March,258.0
+2589,2589,Nawabganj,Addition,April,195.0
+2590,2590,Nawabganj,Addition,May,185.0
+2591,2591,Nawabganj,Deletion,March,7.0
+2592,2592,Nawabganj,Deletion,April,19.0
+2593,2593,Nawabganj,Deletion,May,8.0
+2594,2594,Nawabganj,Modification,March,116.0
+2595,2595,Nawabganj,Modification,April,131.0
+2596,2596,Nawabganj,Modification,May,102.0
+2597,2597,Nehtaur,Addition,March,251.0
+2598,2598,Nehtaur,Addition,April,168.0
+2599,2599,Nehtaur,Addition,May,163.0
+2600,2600,Nehtaur,Deletion,March,70.0
+2601,2601,Nehtaur,Deletion,April,45.0
+2602,2602,Nehtaur,Deletion,May,16.0
+2603,2603,Nehtaur,Modification,March,180.0
+2604,2604,Nehtaur,Modification,April,163.0
+2605,2605,Nehtaur,Modification,May,130.0
+2606,2606,Nighasan,Addition,March,52.0
+2607,2607,Nighasan,Addition,April,30.0
+2608,2608,Nighasan,Addition,May,87.0
+2609,2609,Nighasan,Deletion,March,4.0
+2610,2610,Nighasan,Deletion,April,11.0
+2611,2611,Nighasan,Deletion,May,71.0
+2612,2612,Nighasan,Modification,March,48.0
+2613,2613,Nighasan,Modification,April,48.0
+2614,2614,Nighasan,Modification,May,68.0
+2615,2615,Nizamabad,Addition,March,113.0
+2616,2616,Nizamabad,Addition,April,66.0
+2617,2617,Nizamabad,Addition,May,76.0
+2618,2618,Nizamabad,Deletion,March,20.0
+2619,2619,Nizamabad,Deletion,April,19.0
+2620,2620,Nizamabad,Deletion,May,14.0
+2621,2621,Nizamabad,Modification,March,195.0
+2622,2622,Nizamabad,Modification,April,109.0
+2623,2623,Nizamabad,Modification,May,108.0
+2624,2624,Noida,Addition,March,599.0
+2625,2625,Noida,Addition,April,357.0
+2626,2626,Noida,Addition,May,242.0
+2627,2627,Noida,Deletion,March,325.0
+2628,2628,Noida,Deletion,April,2174.0
+2629,2629,Noida,Deletion,May,189.0
+2630,2630,Noida,Modification,March,565.0
+2631,2631,Noida,Modification,April,426.0
+2632,2632,Noida,Modification,May,247.0
+2633,2633,Noorpur,Addition,March,310.0
+2634,2634,Noorpur,Addition,April,218.0
+2635,2635,Noorpur,Addition,May,161.0
+2636,2636,Noorpur,Deletion,March,17.0
+2637,2637,Noorpur,Deletion,April,35.0
+2638,2638,Noorpur,Deletion,May,10.0
+2639,2639,Noorpur,Modification,March,184.0
+2640,2640,Noorpur,Modification,April,124.0
+2641,2641,Noorpur,Modification,May,151.0
+2642,2642,Obra,Addition,March,406.0
+2643,2643,Obra,Addition,April,453.0
+2644,2644,Obra,Addition,May,468.0
+2645,2645,Obra,Deletion,March,18.0
+2646,2646,Obra,Deletion,April,71.0
+2647,2647,Obra,Deletion,May,19.0
+2648,2648,Obra,Modification,March,123.0
+2649,2649,Obra,Modification,April,132.0
+2650,2650,Obra,Modification,May,118.0
+2651,2651,Orai,Addition,March,249.0
+2652,2652,Orai,Addition,April,172.0
+2653,2653,Orai,Addition,May,233.0
+2654,2654,Orai,Deletion,March,29.0
+2655,2655,Orai,Deletion,April,45.0
+2656,2656,Orai,Deletion,May,15.0
+2657,2657,Orai,Modification,March,234.0
+2658,2658,Orai,Modification,April,176.0
+2659,2659,Orai,Modification,May,134.0
+2660,2660,Padrauna,Addition,March,167.0
+2661,2661,Padrauna,Addition,April,223.0
+2662,2662,Padrauna,Addition,May,210.0
+2663,2663,Padrauna,Deletion,March,7.0
+2664,2664,Padrauna,Deletion,April,17.0
+2665,2665,Padrauna,Deletion,May,4.0
+2666,2666,Padrauna,Modification,March,174.0
+2667,2667,Padrauna,Modification,April,178.0
+2668,2668,Padrauna,Modification,May,187.0
+2669,2669,Palia,Addition,March,271.0
+2670,2670,Palia,Addition,April,81.0
+2671,2671,Palia,Addition,May,132.0
+2672,2672,Palia,Deletion,March,4.0
+2673,2673,Palia,Deletion,April,14.0
+2674,2674,Palia,Deletion,May,27.0
+2675,2675,Palia,Modification,March,79.0
+2676,2676,Palia,Modification,April,54.0
+2677,2677,Palia,Modification,May,101.0
+2678,2678,Paniyara,Addition,March,297.0
+2679,2679,Paniyara,Addition,April,217.0
+2680,2680,Paniyara,Addition,May,240.0
+2681,2681,Paniyara,Deletion,March,18.0
+2682,2682,Paniyara,Deletion,April,18.0
+2683,2683,Paniyara,Deletion,May,26.0
+2684,2684,Paniyara,Modification,March,213.0
+2685,2685,Paniyara,Modification,April,204.0
+2686,2686,Paniyara,Modification,May,232.0
+2687,2687,Pathardeva,Addition,March,390.0
+2688,2688,Pathardeva,Addition,April,289.0
+2689,2689,Pathardeva,Addition,May,250.0
+2690,2690,Pathardeva,Deletion,March,22.0
+2691,2691,Pathardeva,Deletion,April,42.0
+2692,2692,Pathardeva,Deletion,May,11.0
+2693,2693,Pathardeva,Modification,March,269.0
+2694,2694,Pathardeva,Modification,April,238.0
+2695,2695,Pathardeva,Modification,May,201.0
+2696,2696,Patiyali,Addition,March,93.0
+2697,2697,Patiyali,Addition,April,137.0
+2698,2698,Patiyali,Addition,May,97.0
+2699,2699,Patiyali,Deletion,March,17.0
+2700,2700,Patiyali,Deletion,April,61.0
+2701,2701,Patiyali,Deletion,May,14.0
+2702,2702,Patiyali,Modification,March,93.0
+2703,2703,Patiyali,Modification,April,134.0
+2704,2704,Patiyali,Modification,May,98.0
+2705,2705,Patti,Addition,March,444.0
+2706,2706,Patti,Addition,April,243.0
+2707,2707,Patti,Addition,May,226.0
+2708,2708,Patti,Deletion,March,46.0
+2709,2709,Patti,Deletion,April,108.0
+2710,2710,Patti,Deletion,May,44.0
+2711,2711,Patti,Modification,March,245.0
+2712,2712,Patti,Modification,April,230.0
+2713,2713,Patti,Modification,May,168.0
+2714,2714,Payagpur,Addition,March,595.0
+2715,2715,Payagpur,Addition,April,499.0
+2716,2716,Payagpur,Addition,May,570.0
+2717,2717,Payagpur,Deletion,March,56.0
+2718,2718,Payagpur,Deletion,April,48.0
+2719,2719,Payagpur,Deletion,May,31.0
+2720,2720,Payagpur,Modification,March,288.0
+2721,2721,Payagpur,Modification,April,270.0
+2722,2722,Payagpur,Modification,May,211.0
+2723,2723,Phaphamau,Addition,March,226.0
+2724,2724,Phaphamau,Addition,April,159.0
+2725,2725,Phaphamau,Addition,May,108.0
+2726,2726,Phaphamau,Deletion,March,7.0
+2727,2727,Phaphamau,Deletion,April,37.0
+2728,2728,Phaphamau,Deletion,May,2.0
+2729,2729,Phaphamau,Modification,March,97.0
+2730,2730,Phaphamau,Modification,April,62.0
+2731,2731,Phaphamau,Modification,May,29.0
+2732,2732,Pharenda,Addition,March,192.0
+2733,2733,Pharenda,Addition,April,173.0
+2734,2734,Pharenda,Addition,May,181.0
+2735,2735,Pharenda,Deletion,March,12.0
+2736,2736,Pharenda,Deletion,April,27.0
+2737,2737,Pharenda,Deletion,May,4.0
+2738,2738,Pharenda,Modification,March,236.0
+2739,2739,Pharenda,Modification,April,207.0
+2740,2740,Pharenda,Modification,May,131.0
+2741,2741,Phephana,Addition,March,202.0
+2742,2742,Phephana,Addition,April,155.0
+2743,2743,Phephana,Addition,May,141.0
+2744,2744,Phephana,Deletion,March,37.0
+2745,2745,Phephana,Deletion,April,49.0
+2746,2746,Phephana,Deletion,May,12.0
+2747,2747,Phephana,Modification,March,119.0
+2748,2748,Phephana,Modification,April,103.0
+2749,2749,Phephana,Modification,May,83.0
+2750,2750,Phoolpur Pawai,Addition,March,241.0
+2751,2751,Phoolpur Pawai,Addition,April,177.0
+2752,2752,Phoolpur Pawai,Addition,May,212.0
+2753,2753,Phoolpur Pawai,Deletion,March,16.0
+2754,2754,Phoolpur Pawai,Deletion,April,12.0
+2755,2755,Phoolpur Pawai,Deletion,May,15.0
+2756,2756,Phoolpur Pawai,Modification,March,199.0
+2757,2757,Phoolpur Pawai,Modification,April,196.0
+2758,2758,Phoolpur Pawai,Modification,May,175.0
+2759,2759,Phulpur,Addition,March,115.0
+2760,2760,Phulpur,Addition,April,115.0
+2761,2761,Phulpur,Addition,May,110.0
+2762,2762,Phulpur,Deletion,March,8.0
+2763,2763,Phulpur,Deletion,April,52.0
+2764,2764,Phulpur,Deletion,May,4.0
+2765,2765,Phulpur,Modification,March,76.0
+2766,2766,Phulpur,Modification,April,78.0
+2767,2767,Phulpur,Modification,May,108.0
+2768,2768,Pilibhit,Addition,March,227.0
+2769,2769,Pilibhit,Addition,April,327.0
+2770,2770,Pilibhit,Addition,May,214.0
+2771,2771,Pilibhit,Deletion,March,84.0
+2772,2772,Pilibhit,Deletion,April,174.0
+2773,2773,Pilibhit,Deletion,May,71.0
+2774,2774,Pilibhit,Modification,March,145.0
+2775,2775,Pilibhit,Modification,April,142.0
+2776,2776,Pilibhit,Modification,May,165.0
+2777,2777,Pindra,Addition,March,285.0
+2778,2778,Pindra,Addition,April,342.0
+2779,2779,Pindra,Addition,May,273.0
+2780,2780,Pindra,Deletion,March,25.0
+2781,2781,Pindra,Deletion,April,33.0
+2782,2782,Pindra,Deletion,May,8.0
+2783,2783,Pindra,Modification,March,172.0
+2784,2784,Pindra,Modification,April,182.0
+2785,2785,Pindra,Modification,May,169.0
+2786,2786,Pipraich,Addition,March,390.0
+2787,2787,Pipraich,Addition,April,366.0
+2788,2788,Pipraich,Addition,May,269.0
+2789,2789,Pipraich,Deletion,March,8.0
+2790,2790,Pipraich,Deletion,April,33.0
+2791,2791,Pipraich,Deletion,May,27.0
+2792,2792,Pipraich,Modification,March,222.0
+2793,2793,Pipraich,Modification,April,185.0
+2794,2794,Pipraich,Modification,May,193.0
+2795,2795,Powayan,Addition,March,223.0
+2796,2796,Powayan,Addition,April,228.0
+2797,2797,Powayan,Addition,May,147.0
+2798,2798,Powayan,Deletion,March,10.0
+2799,2799,Powayan,Deletion,April,12.0
+2800,2800,Powayan,Deletion,May,7.0
+2801,2801,Powayan,Modification,March,77.0
+2802,2802,Powayan,Modification,April,88.0
+2803,2803,Powayan,Modification,May,64.0
+2804,2804,Pratapgarh,Addition,March,449.0
+2805,2805,Pratapgarh,Addition,April,323.0
+2806,2806,Pratapgarh,Addition,May,296.0
+2807,2807,Pratapgarh,Deletion,March,19.0
+2808,2808,Pratapgarh,Deletion,April,74.0
+2809,2809,Pratapgarh,Deletion,May,13.0
+2810,2810,Pratapgarh,Modification,March,290.0
+2811,2811,Pratapgarh,Modification,April,276.0
+2812,2812,Pratapgarh,Modification,May,215.0
+2813,2813,Pratappur,Addition,March,231.0
+2814,2814,Pratappur,Addition,April,194.0
+2815,2815,Pratappur,Addition,May,223.0
+2816,2816,Pratappur,Deletion,March,78.0
+2817,2817,Pratappur,Deletion,April,34.0
+2818,2818,Pratappur,Deletion,May,12.0
+2819,2819,Pratappur,Modification,March,116.0
+2820,2820,Pratappur,Modification,April,130.0
+2821,2821,Pratappur,Modification,May,117.0
+2822,2822,Puranpur,Addition,March,184.0
+2823,2823,Puranpur,Addition,April,104.0
+2824,2824,Puranpur,Addition,May,69.0
+2825,2825,Puranpur,Deletion,March,15.0
+2826,2826,Puranpur,Deletion,April,7.0
+2827,2827,Puranpur,Deletion,May,8.0
+2828,2828,Puranpur,Modification,March,184.0
+2829,2829,Puranpur,Modification,April,147.0
+2830,2830,Puranpur,Modification,May,107.0
+2831,2831,Purqazi,Addition,March,457.0
+2832,2832,Purqazi,Addition,April,274.0
+2833,2833,Purqazi,Addition,May,332.0
+2834,2834,Purqazi,Deletion,March,22.0
+2835,2835,Purqazi,Deletion,April,50.0
+2836,2836,Purqazi,Deletion,May,20.0
+2837,2837,Purqazi,Modification,March,217.0
+2838,2838,Purqazi,Modification,April,151.0
+2839,2839,Purqazi,Modification,May,150.0
+2840,2840,Purwa,Addition,March,124.0
+2841,2841,Purwa,Addition,April,103.0
+2842,2842,Purwa,Addition,May,113.0
+2843,2843,Purwa,Deletion,March,5.0
+2844,2844,Purwa,Deletion,April,15.0
+2845,2845,Purwa,Deletion,May,4.0
+2846,2846,Purwa,Modification,March,65.0
+2847,2847,Purwa,Modification,April,59.0
+2848,2848,Purwa,Modification,May,57.0
+2849,2849,Rae Bareli,Addition,March,200.0
+2850,2850,Rae Bareli,Addition,April,286.0
+2851,2851,Rae Bareli,Addition,May,223.0
+2852,2852,Rae Bareli,Deletion,March,18.0
+2853,2853,Rae Bareli,Deletion,April,33.0
+2854,2854,Rae Bareli,Deletion,May,6.0
+2855,2855,Rae Bareli,Modification,March,117.0
+2856,2856,Rae Bareli,Modification,April,122.0
+2857,2857,Rae Bareli,Modification,May,115.0
+2858,2858,Ram Nagar,Addition,March,153.0
+2859,2859,Ram Nagar,Addition,April,150.0
+2860,2860,Ram Nagar,Addition,May,117.0
+2861,2861,Ram Nagar,Deletion,March,3.0
+2862,2862,Ram Nagar,Deletion,April,9.0
+2863,2863,Ram Nagar,Deletion,May,7.0
+2864,2864,Ram Nagar,Modification,March,103.0
+2865,2865,Ram Nagar,Modification,April,80.0
+2866,2866,Ram Nagar,Modification,May,56.0
+2867,2867,Ramkola,Addition,March,168.0
+2868,2868,Ramkola,Addition,April,169.0
+2869,2869,Ramkola,Addition,May,154.0
+2870,2870,Ramkola,Deletion,March,6.0
+2871,2871,Ramkola,Deletion,April,23.0
+2872,2872,Ramkola,Deletion,May,6.0
+2873,2873,Ramkola,Modification,March,129.0
+2874,2874,Ramkola,Modification,April,103.0
+2875,2875,Ramkola,Modification,May,148.0
+2876,2876,Rampur,Addition,March,351.0
+2877,2877,Rampur,Addition,April,225.0
+2878,2878,Rampur,Addition,May,287.0
+2879,2879,Rampur,Deletion,March,35.0
+2880,2880,Rampur,Deletion,April,38.0
+2881,2881,Rampur,Deletion,May,27.0
+2882,2882,Rampur,Modification,March,223.0
+2883,2883,Rampur,Modification,April,259.0
+2884,2884,Rampur,Modification,May,288.0
+2885,2885,Rampur Karkhana,Addition,March,291.0
+2886,2886,Rampur Karkhana,Addition,April,363.0
+2887,2887,Rampur Karkhana,Addition,May,219.0
+2888,2888,Rampur Karkhana,Deletion,March,20.0
+2889,2889,Rampur Karkhana,Deletion,April,192.0
+2890,2890,Rampur Karkhana,Deletion,May,18.0
+2891,2891,Rampur Karkhana,Modification,March,180.0
+2892,2892,Rampur Karkhana,Modification,April,238.0
+2893,2893,Rampur Karkhana,Modification,May,166.0
+2894,2894,Rampur Khas,Addition,March,167.0
+2895,2895,Rampur Khas,Addition,April,158.0
+2896,2896,Rampur Khas,Addition,May,145.0
+2897,2897,Rampur Khas,Deletion,March,34.0
+2898,2898,Rampur Khas,Deletion,April,68.0
+2899,2899,Rampur Khas,Deletion,May,20.0
+2900,2900,Rampur Khas,Modification,March,166.0
+2901,2901,Rampur Khas,Modification,April,114.0
+2902,2902,Rampur Khas,Modification,May,106.0
+2903,2903,Rampur Maniharan,Addition,March,174.0
+2904,2904,Rampur Maniharan,Addition,April,135.0
+2905,2905,Rampur Maniharan,Addition,May,222.0
+2906,2906,Rampur Maniharan,Deletion,March,10.0
+2907,2907,Rampur Maniharan,Deletion,April,62.0
+2908,2908,Rampur Maniharan,Deletion,May,22.0
+2909,2909,Rampur Maniharan,Modification,March,207.0
+2910,2910,Rampur Maniharan,Modification,April,225.0
+2911,2911,Rampur Maniharan,Modification,May,237.0
+2912,2912,Raniganj,Addition,March,474.0
+2913,2913,Raniganj,Addition,April,339.0
+2914,2914,Raniganj,Addition,May,305.0
+2915,2915,Raniganj,Deletion,March,58.0
+2916,2916,Raniganj,Deletion,April,39.0
+2917,2917,Raniganj,Deletion,May,24.0
+2918,2918,Raniganj,Modification,March,199.0
+2919,2919,Raniganj,Modification,April,227.0
+2920,2920,Raniganj,Modification,May,198.0
+2921,2921,Rasara,Addition,March,306.0
+2922,2922,Rasara,Addition,April,155.0
+2923,2923,Rasara,Addition,May,180.0
+2924,2924,Rasara,Deletion,March,26.0
+2925,2925,Rasara,Deletion,April,32.0
+2926,2926,Rasara,Deletion,May,19.0
+2927,2927,Rasara,Modification,March,209.0
+2928,2928,Rasara,Modification,April,140.0
+2929,2929,Rasara,Modification,May,121.0
+2930,2930,Rasulabad,Addition,March,379.0
+2931,2931,Rasulabad,Addition,April,96.0
+2932,2932,Rasulabad,Addition,May,72.0
+2933,2933,Rasulabad,Deletion,March,89.0
+2934,2934,Rasulabad,Deletion,April,22.0
+2935,2935,Rasulabad,Deletion,May,4.0
+2936,2936,Rasulabad,Modification,March,226.0
+2937,2937,Rasulabad,Modification,April,74.0
+2938,2938,Rasulabad,Modification,May,85.0
+2939,2939,Rath,Addition,March,117.0
+2940,2940,Rath,Addition,April,148.0
+2941,2941,Rath,Addition,May,231.0
+2942,2942,Rath,Deletion,March,26.0
+2943,2943,Rath,Deletion,April,47.0
+2944,2944,Rath,Deletion,May,76.0
+2945,2945,Rath,Modification,March,80.0
+2946,2946,Rath,Modification,April,112.0
+2947,2947,Rath,Modification,May,108.0
+2948,2948,Robertsganj,Addition,March,335.0
+2949,2949,Robertsganj,Addition,April,348.0
+2950,2950,Robertsganj,Addition,May,251.0
+2951,2951,Robertsganj,Deletion,March,9.0
+2952,2952,Robertsganj,Deletion,April,26.0
+2953,2953,Robertsganj,Deletion,May,53.0
+2954,2954,Robertsganj,Modification,March,177.0
+2955,2955,Robertsganj,Modification,April,145.0
+2956,2956,Robertsganj,Modification,May,103.0
+2957,2957,Rohaniya,Addition,March,609.0
+2958,2958,Rohaniya,Addition,April,571.0
+2959,2959,Rohaniya,Addition,May,522.0
+2960,2960,Rohaniya,Deletion,March,29.0
+2961,2961,Rohaniya,Deletion,April,67.0
+2962,2962,Rohaniya,Deletion,May,21.0
+2963,2963,Rohaniya,Modification,March,207.0
+2964,2964,Rohaniya,Modification,April,216.0
+2965,2965,Rohaniya,Modification,May,197.0
+2966,2966,Rudauli,Addition,March,92.0
+2967,2967,Rudauli,Addition,April,120.0
+2968,2968,Rudauli,Addition,May,66.0
+2969,2969,Rudauli,Deletion,March,10.0
+2970,2970,Rudauli,Deletion,April,11.0
+2971,2971,Rudauli,Deletion,May,9.0
+2972,2972,Rudauli,Modification,March,93.0
+2973,2973,Rudauli,Modification,April,62.0
+2974,2974,Rudauli,Modification,May,75.0
+2975,2975,Rudhauli,Addition,March,188.0
+2976,2976,Rudhauli,Addition,April,128.0
+2977,2977,Rudhauli,Addition,May,112.0
+2978,2978,Rudhauli,Deletion,March,42.0
+2979,2979,Rudhauli,Deletion,April,36.0
+2980,2980,Rudhauli,Deletion,May,18.0
+2981,2981,Rudhauli,Modification,March,166.0
+2982,2982,Rudhauli,Modification,April,199.0
+2983,2983,Rudhauli,Modification,May,175.0
+2984,2984,Rudrapur,Addition,March,304.0
+2985,2985,Rudrapur,Addition,April,303.0
+2986,2986,Rudrapur,Addition,May,260.0
+2987,2987,Rudrapur,Deletion,March,17.0
+2988,2988,Rudrapur,Deletion,April,196.0
+2989,2989,Rudrapur,Deletion,May,11.0
+2990,2990,Rudrapur,Modification,March,152.0
+2991,2991,Rudrapur,Modification,April,337.0
+2992,2992,Rudrapur,Modification,May,121.0
+2993,2993,Sadabad,Addition,March,154.0
+2994,2994,Sadabad,Addition,April,108.0
+2995,2995,Sadabad,Addition,May,200.0
+2996,2996,Sadabad,Deletion,March,15.0
+2997,2997,Sadabad,Deletion,April,35.0
+2998,2998,Sadabad,Deletion,May,8.0
+2999,2999,Sadabad,Modification,March,116.0
+3000,3000,Sadabad,Modification,April,129.0
+3001,3001,Sadabad,Modification,May,129.0
+3002,3002,Sadar,Addition,March,376.0
+3003,3003,Sadar,Addition,April,247.0
+3004,3004,Sadar,Addition,May,258.0
+3005,3005,Sadar,Deletion,March,40.0
+3006,3006,Sadar,Deletion,April,31.0
+3007,3007,Sadar,Deletion,May,11.0
+3008,3008,Sadar,Modification,March,189.0
+3009,3009,Sadar,Modification,April,135.0
+3010,3010,Sadar,Modification,May,133.0
+3011,3011,Safipur,Addition,March,68.0
+3012,3012,Safipur,Addition,April,39.0
+3013,3013,Safipur,Addition,May,136.0
+3014,3014,Safipur,Deletion,March,43.0
+3015,3015,Safipur,Deletion,April,40.0
+3016,3016,Safipur,Deletion,May,55.0
+3017,3017,Safipur,Modification,March,69.0
+3018,3018,Safipur,Modification,April,43.0
+3019,3019,Safipur,Modification,May,109.0
+3020,3020,Sagri,Addition,March,258.0
+3021,3021,Sagri,Addition,April,175.0
+3022,3022,Sagri,Addition,May,192.0
+3023,3023,Sagri,Deletion,March,54.0
+3024,3024,Sagri,Deletion,April,30.0
+3025,3025,Sagri,Deletion,May,10.0
+3026,3026,Sagri,Modification,March,201.0
+3027,3027,Sagri,Modification,April,216.0
+3028,3028,Sagri,Modification,May,152.0
+3029,3029,Sahajanwa,Addition,March,154.0
+3030,3030,Sahajanwa,Addition,April,263.0
+3031,3031,Sahajanwa,Addition,May,121.0
+3032,3032,Sahajanwa,Deletion,March,10.0
+3033,3033,Sahajanwa,Deletion,April,28.0
+3034,3034,Sahajanwa,Deletion,May,5.0
+3035,3035,Sahajanwa,Modification,March,241.0
+3036,3036,Sahajanwa,Modification,April,211.0
+3037,3037,Sahajanwa,Modification,May,165.0
+3038,3038,Saharanpur,Addition,March,515.0
+3039,3039,Saharanpur,Addition,April,396.0
+3040,3040,Saharanpur,Addition,May,388.0
+3041,3041,Saharanpur,Deletion,March,28.0
+3042,3042,Saharanpur,Deletion,April,49.0
+3043,3043,Saharanpur,Deletion,May,16.0
+3044,3044,Saharanpur,Modification,March,252.0
+3045,3045,Saharanpur,Modification,April,281.0
+3046,3046,Saharanpur,Modification,May,271.0
+3047,3047,Saharanpur Nagar,Addition,March,783.0
+3048,3048,Saharanpur Nagar,Addition,April,396.0
+3049,3049,Saharanpur Nagar,Addition,May,491.0
+3050,3050,Saharanpur Nagar,Deletion,March,58.0
+3051,3051,Saharanpur Nagar,Deletion,April,116.0
+3052,3052,Saharanpur Nagar,Deletion,May,60.0
+3053,3053,Saharanpur Nagar,Modification,March,233.0
+3054,3054,Saharanpur Nagar,Modification,April,291.0
+3055,3055,Saharanpur Nagar,Modification,May,299.0
+3056,3056,Sahaswan,Addition,March,429.0
+3057,3057,Sahaswan,Addition,April,406.0
+3058,3058,Sahaswan,Addition,May,324.0
+3059,3059,Sahaswan,Deletion,March,37.0
+3060,3060,Sahaswan,Deletion,April,79.0
+3061,3061,Sahaswan,Deletion,May,11.0
+3062,3062,Sahaswan,Modification,March,134.0
+3063,3063,Sahaswan,Modification,April,126.0
+3064,3064,Sahaswan,Modification,May,133.0
+3065,3065,Sahibabad,Addition,March,1983.0
+3066,3066,Sahibabad,Addition,April,1027.0
+3067,3067,Sahibabad,Addition,May,993.0
+3068,3068,Sahibabad,Deletion,March,536.0
+3069,3069,Sahibabad,Deletion,April,1728.0
+3070,3070,Sahibabad,Deletion,May,202.0
+3071,3071,Sahibabad,Modification,March,1106.0
+3072,3072,Sahibabad,Modification,April,552.0
+3073,3073,Sahibabad,Modification,May,457.0
+3074,3074,Saidpur,Addition,March,53.0
+3075,3075,Saidpur,Addition,April,136.0
+3076,3076,Saidpur,Addition,May,110.0
+3077,3077,Saidpur,Deletion,March,15.0
+3078,3078,Saidpur,Deletion,April,32.0
+3079,3079,Saidpur,Deletion,May,8.0
+3080,3080,Saidpur,Modification,March,163.0
+3081,3081,Saidpur,Modification,April,179.0
+3082,3082,Saidpur,Modification,May,104.0
+3083,3083,Saiyadraja,Addition,March,262.0
+3084,3084,Saiyadraja,Addition,April,190.0
+3085,3085,Saiyadraja,Addition,May,268.0
+3086,3086,Saiyadraja,Deletion,March,15.0
+3087,3087,Saiyadraja,Deletion,April,27.0
+3088,3088,Saiyadraja,Deletion,May,18.0
+3089,3089,Saiyadraja,Modification,March,134.0
+3090,3090,Saiyadraja,Modification,April,121.0
+3091,3091,Saiyadraja,Modification,May,157.0
+3092,3092,Sakaldiha,Addition,March,344.0
+3093,3093,Sakaldiha,Addition,April,292.0
+3094,3094,Sakaldiha,Addition,May,344.0
+3095,3095,Sakaldiha,Deletion,March,14.0
+3096,3096,Sakaldiha,Deletion,April,12.0
+3097,3097,Sakaldiha,Deletion,May,6.0
+3098,3098,Sakaldiha,Modification,March,170.0
+3099,3099,Sakaldiha,Modification,April,146.0
+3100,3100,Sakaldiha,Modification,May,165.0
+3101,3101,Salempur,Addition,March,327.0
+3102,3102,Salempur,Addition,April,236.0
+3103,3103,Salempur,Addition,May,238.0
+3104,3104,Salempur,Deletion,March,181.0
+3105,3105,Salempur,Deletion,April,136.0
+3106,3106,Salempur,Deletion,May,35.0
+3107,3107,Salempur,Modification,March,276.0
+3108,3108,Salempur,Modification,April,203.0
+3109,3109,Salempur,Modification,May,166.0
+3110,3110,Salon,Addition,March,159.0
+3111,3111,Salon,Addition,April,149.0
+3112,3112,Salon,Addition,May,111.0
+3113,3113,Salon,Deletion,March,18.0
+3114,3114,Salon,Deletion,April,18.0
+3115,3115,Salon,Deletion,May,9.0
+3116,3116,Salon,Modification,March,91.0
+3117,3117,Salon,Modification,April,86.0
+3118,3118,Salon,Modification,May,85.0
+3119,3119,Sambhal,Addition,March,58.0
+3120,3120,Sambhal,Addition,April,33.0
+3121,3121,Sambhal,Addition,May,49.0
+3122,3122,Sambhal,Deletion,March,61.0
+3123,3123,Sambhal,Deletion,April,37.0
+3124,3124,Sambhal,Deletion,May,43.0
+3125,3125,Sambhal,Modification,March,58.0
+3126,3126,Sambhal,Modification,April,19.0
+3127,3127,Sambhal,Modification,May,23.0
+3128,3128,Sandi,Addition,March,15.0
+3129,3129,Sandi,Addition,April,23.0
+3130,3130,Sandi,Addition,May,44.0
+3131,3131,Sandi,Deletion,March,3.0
+3132,3132,Sandi,Deletion,April,9.0
+3133,3133,Sandi,Deletion,May,14.0
+3134,3134,Sandi,Modification,March,20.0
+3135,3135,Sandi,Modification,April,39.0
+3136,3136,Sandi,Modification,May,38.0
+3137,3137,Sandila,Addition,March,131.0
+3138,3138,Sandila,Addition,April,68.0
+3139,3139,Sandila,Addition,May,59.0
+3140,3140,Sandila,Deletion,March,11.0
+3141,3141,Sandila,Deletion,April,10.0
+3142,3142,Sandila,Deletion,May,2.0
+3143,3143,Sandila,Modification,March,87.0
+3144,3144,Sandila,Modification,April,59.0
+3145,3145,Sandila,Modification,May,46.0
+3146,3146,Sardhana,Addition,March,125.0
+3147,3147,Sardhana,Addition,April,265.0
+3148,3148,Sardhana,Addition,May,232.0
+3149,3149,Sardhana,Deletion,March,18.0
+3150,3150,Sardhana,Deletion,April,53.0
+3151,3151,Sardhana,Deletion,May,13.0
+3152,3152,Sardhana,Modification,March,81.0
+3153,3153,Sardhana,Modification,April,166.0
+3154,3154,Sardhana,Modification,May,117.0
+3155,3155,Sareni,Addition,March,146.0
+3156,3156,Sareni,Addition,April,74.0
+3157,3157,Sareni,Addition,May,81.0
+3158,3158,Sareni,Deletion,March,12.0
+3159,3159,Sareni,Deletion,April,19.0
+3160,3160,Sareni,Deletion,May,5.0
+3161,3161,Sareni,Modification,March,110.0
+3162,3162,Sareni,Modification,April,109.0
+3163,3163,Sareni,Modification,May,73.0
+3164,3164,Sarojini Nagar,Addition,March,559.0
+3165,3165,Sarojini Nagar,Addition,April,512.0
+3166,3166,Sarojini Nagar,Addition,May,504.0
+3167,3167,Sarojini Nagar,Deletion,March,94.0
+3168,3168,Sarojini Nagar,Deletion,April,110.0
+3169,3169,Sarojini Nagar,Deletion,May,45.0
+3170,3170,Sarojini Nagar,Modification,March,233.0
+3171,3171,Sarojini Nagar,Modification,April,263.0
+3172,3172,Sarojini Nagar,Modification,May,243.0
+3173,3173,Sawaijpur,Addition,March,42.0
+3174,3174,Sawaijpur,Addition,April,71.0
+3175,3175,Sawaijpur,Addition,May,37.0
+3176,3176,Sawaijpur,Deletion,March,14.0
+3177,3177,Sawaijpur,Deletion,April,22.0
+3178,3178,Sawaijpur,Deletion,May,7.0
+3179,3179,Sawaijpur,Modification,March,43.0
+3180,3180,Sawaijpur,Modification,April,65.0
+3181,3181,Sawaijpur,Modification,May,36.0
+3182,3182,Sevapuri,Addition,March,219.0
+3183,3183,Sevapuri,Addition,April,131.0
+3184,3184,Sevapuri,Addition,May,173.0
+3185,3185,Sevapuri,Deletion,March,13.0
+3186,3186,Sevapuri,Deletion,April,22.0
+3187,3187,Sevapuri,Deletion,May,23.0
+3188,3188,Sevapuri,Modification,March,154.0
+3189,3189,Sevapuri,Modification,April,111.0
+3190,3190,Sevapuri,Modification,May,105.0
+3191,3191,Sevata,Addition,March,502.0
+3192,3192,Sevata,Addition,April,404.0
+3193,3193,Sevata,Addition,May,303.0
+3194,3194,Sevata,Deletion,March,7.0
+3195,3195,Sevata,Deletion,April,23.0
+3196,3196,Sevata,Deletion,May,12.0
+3197,3197,Sevata,Modification,March,156.0
+3198,3198,Sevata,Modification,April,144.0
+3199,3199,Sevata,Modification,May,111.0
+3200,3200,Shahabad,Addition,March,79.0
+3201,3201,Shahabad,Addition,April,140.0
+3202,3202,Shahabad,Addition,May,105.0
+3203,3203,Shahabad,Deletion,March,11.0
+3204,3204,Shahabad,Deletion,April,47.0
+3205,3205,Shahabad,Deletion,May,11.0
+3206,3206,Shahabad,Modification,March,92.0
+3207,3207,Shahabad,Modification,April,84.0
+3208,3208,Shahabad,Modification,May,64.0
+3209,3209,Shahganj,Addition,March,517.0
+3210,3210,Shahganj,Addition,April,199.0
+3211,3211,Shahganj,Addition,May,214.0
+3212,3212,Shahganj,Deletion,March,20.0
+3213,3213,Shahganj,Deletion,April,39.0
+3214,3214,Shahganj,Deletion,May,6.0
+3215,3215,Shahganj,Modification,March,347.0
+3216,3216,Shahganj,Modification,April,225.0
+3217,3217,Shahganj,Modification,May,201.0
+3218,3218,Shahjahanpur,Addition,March,395.0
+3219,3219,Shahjahanpur,Addition,April,354.0
+3220,3220,Shahjahanpur,Addition,May,362.0
+3221,3221,Shahjahanpur,Deletion,March,27.0
+3222,3222,Shahjahanpur,Deletion,April,63.0
+3223,3223,Shahjahanpur,Deletion,May,5.0
+3224,3224,Shahjahanpur,Modification,March,155.0
+3225,3225,Shahjahanpur,Modification,April,182.0
+3226,3226,Shahjahanpur,Modification,May,162.0
+3227,3227,Shamli,Addition,March,28.0
+3228,3228,Shamli,Addition,April,105.0
+3229,3229,Shamli,Addition,May,74.0
+3230,3230,Shamli,Deletion,March,17.0
+3231,3231,Shamli,Deletion,April,40.0
+3232,3232,Shamli,Deletion,May,23.0
+3233,3233,Shamli,Modification,March,32.0
+3234,3234,Shamli,Modification,April,198.0
+3235,3235,Shamli,Modification,May,138.0
+3236,3236,Shekhupur,Addition,March,686.0
+3237,3237,Shekhupur,Addition,April,427.0
+3238,3238,Shekhupur,Addition,May,378.0
+3239,3239,Shekhupur,Deletion,March,177.0
+3240,3240,Shekhupur,Deletion,April,58.0
+3241,3241,Shekhupur,Deletion,May,14.0
+3242,3242,Shekhupur,Modification,March,372.0
+3243,3243,Shekhupur,Modification,April,210.0
+3244,3244,Shekhupur,Modification,May,194.0
+3245,3245,Shikarpur,Addition,March,224.0
+3246,3246,Shikarpur,Addition,April,164.0
+3247,3247,Shikarpur,Addition,May,152.0
+3248,3248,Shikarpur,Deletion,March,28.0
+3249,3249,Shikarpur,Deletion,April,71.0
+3250,3250,Shikarpur,Deletion,May,8.0
+3251,3251,Shikarpur,Modification,March,159.0
+3252,3252,Shikarpur,Modification,April,134.0
+3253,3253,Shikarpur,Modification,May,97.0
+3254,3254,Shikohabad,Addition,March,381.0
+3255,3255,Shikohabad,Addition,April,241.0
+3256,3256,Shikohabad,Addition,May,251.0
+3257,3257,Shikohabad,Deletion,March,58.0
+3258,3258,Shikohabad,Deletion,April,43.0
+3259,3259,Shikohabad,Deletion,May,12.0
+3260,3260,Shikohabad,Modification,March,284.0
+3261,3261,Shikohabad,Modification,April,107.0
+3262,3262,Shikohabad,Modification,May,92.0
+3263,3263,Shivpur,Addition,March,708.0
+3264,3264,Shivpur,Addition,April,655.0
+3265,3265,Shivpur,Addition,May,675.0
+3266,3266,Shivpur,Deletion,March,30.0
+3267,3267,Shivpur,Deletion,April,47.0
+3268,3268,Shivpur,Deletion,May,20.0
+3269,3269,Shivpur,Modification,March,287.0
+3270,3270,Shivpur,Modification,April,228.0
+3271,3271,Shivpur,Modification,May,267.0
+3272,3272,Shohratgarh,Addition,March,277.0
+3273,3273,Shohratgarh,Addition,April,217.0
+3274,3274,Shohratgarh,Addition,May,195.0
+3275,3275,Shohratgarh,Deletion,March,10.0
+3276,3276,Shohratgarh,Deletion,April,16.0
+3277,3277,Shohratgarh,Deletion,May,8.0
+3278,3278,Shohratgarh,Modification,March,126.0
+3279,3279,Shohratgarh,Modification,April,114.0
+3280,3280,Shohratgarh,Modification,May,109.0
+3281,3281,Shrawasti,Addition,March,396.0
+3282,3282,Shrawasti,Addition,April,387.0
+3283,3283,Shrawasti,Addition,May,335.0
+3284,3284,Shrawasti,Deletion,March,47.0
+3285,3285,Shrawasti,Deletion,April,35.0
+3286,3286,Shrawasti,Deletion,May,66.0
+3287,3287,Shrawasti,Modification,March,254.0
+3288,3288,Shrawasti,Modification,April,238.0
+3289,3289,Shrawasti,Modification,May,188.0
+3290,3290,Sidhauli,Addition,March,165.0
+3291,3291,Sidhauli,Addition,April,154.0
+3292,3292,Sidhauli,Addition,May,110.0
+3293,3293,Sidhauli,Deletion,March,6.0
+3294,3294,Sidhauli,Deletion,April,9.0
+3295,3295,Sidhauli,Deletion,May,4.0
+3296,3296,Sidhauli,Modification,March,108.0
+3297,3297,Sidhauli,Modification,April,90.0
+3298,3298,Sidhauli,Modification,May,90.0
+3299,3299,Sikanderpur,Addition,March,182.0
+3300,3300,Sikanderpur,Addition,April,129.0
+3301,3301,Sikanderpur,Addition,May,131.0
+3302,3302,Sikanderpur,Deletion,March,25.0
+3303,3303,Sikanderpur,Deletion,April,56.0
+3304,3304,Sikanderpur,Deletion,May,7.0
+3305,3305,Sikanderpur,Modification,March,131.0
+3306,3306,Sikanderpur,Modification,April,116.0
+3307,3307,Sikanderpur,Modification,May,97.0
+3308,3308,Sikandra,Addition,March,91.0
+3309,3309,Sikandra,Addition,April,49.0
+3310,3310,Sikandra,Addition,May,53.0
+3311,3311,Sikandra,Deletion,March,53.0
+3312,3312,Sikandra,Deletion,April,17.0
+3313,3313,Sikandra,Deletion,May,9.0
+3314,3314,Sikandra,Modification,March,104.0
+3315,3315,Sikandra,Modification,April,42.0
+3316,3316,Sikandra,Modification,May,56.0
+3317,3317,Sikandra Rao,Addition,March,201.0
+3318,3318,Sikandra Rao,Addition,April,211.0
+3319,3319,Sikandra Rao,Addition,May,242.0
+3320,3320,Sikandra Rao,Deletion,March,25.0
+3321,3321,Sikandra Rao,Deletion,April,79.0
+3322,3322,Sikandra Rao,Deletion,May,40.0
+3323,3323,Sikandra Rao,Modification,March,153.0
+3324,3324,Sikandra Rao,Modification,April,133.0
+3325,3325,Sikandra Rao,Modification,May,158.0
+3326,3326,Sikandrabad,Addition,March,626.0
+3327,3327,Sikandrabad,Addition,April,232.0
+3328,3328,Sikandrabad,Addition,May,308.0
+3329,3329,Sikandrabad,Deletion,March,511.0
+3330,3330,Sikandrabad,Deletion,April,511.0
+3331,3331,Sikandrabad,Deletion,May,511.0
+3332,3332,Sikandrabad,Modification,March,511.0
+3333,3333,Sikandrabad,Modification,April,195.0
+3334,3334,Sikandrabad,Modification,May,679.0
+3335,3335,Sirathu,Addition,March,205.0
+3336,3336,Sirathu,Addition,April,183.0
+3337,3337,Sirathu,Addition,May,160.0
+3338,3338,Sirathu,Deletion,March,9.0
+3339,3339,Sirathu,Deletion,April,16.0
+3340,3340,Sirathu,Deletion,May,6.0
+3341,3341,Sirathu,Modification,March,85.0
+3342,3342,Sirathu,Modification,April,109.0
+3343,3343,Sirathu,Modification,May,106.0
+3344,3344,Sirsaganj,Addition,March,177.0
+3345,3345,Sirsaganj,Addition,April,111.0
+3346,3346,Sirsaganj,Addition,May,96.0
+3347,3347,Sirsaganj,Deletion,March,14.0
+3348,3348,Sirsaganj,Deletion,April,26.0
+3349,3349,Sirsaganj,Deletion,May,7.0
+3350,3350,Sirsaganj,Modification,March,86.0
+3351,3351,Sirsaganj,Modification,April,81.0
+3352,3352,Sirsaganj,Modification,May,79.0
+3353,3353,Sishamau,Addition,March,143.0
+3354,3354,Sishamau,Addition,April,81.0
+3355,3355,Sishamau,Addition,May,112.0
+3356,3356,Sishamau,Deletion,March,26.0
+3357,3357,Sishamau,Deletion,April,89.0
+3358,3358,Sishamau,Deletion,May,17.0
+3359,3359,Sishamau,Modification,March,131.0
+3360,3360,Sishamau,Modification,April,108.0
+3361,3361,Sishamau,Modification,May,154.0
+3362,3362,Siswa,Addition,March,267.0
+3363,3363,Siswa,Addition,April,261.0
+3364,3364,Siswa,Addition,May,207.0
+3365,3365,Siswa,Deletion,March,42.0
+3366,3366,Siswa,Deletion,April,39.0
+3367,3367,Siswa,Deletion,May,17.0
+3368,3368,Siswa,Modification,March,203.0
+3369,3369,Siswa,Modification,April,234.0
+3370,3370,Siswa,Modification,May,179.0
+3371,3371,Sitapur,Addition,March,323.0
+3372,3372,Sitapur,Addition,April,417.0
+3373,3373,Sitapur,Addition,May,290.0
+3374,3374,Sitapur,Deletion,March,52.0
+3375,3375,Sitapur,Deletion,April,26.0
+3376,3376,Sitapur,Deletion,May,9.0
+3377,3377,Sitapur,Modification,March,121.0
+3378,3378,Sitapur,Modification,April,152.0
+3379,3379,Sitapur,Modification,May,134.0
+3380,3380,Siwalkhas,Addition,March,202.0
+3381,3381,Siwalkhas,Addition,April,292.0
+3382,3382,Siwalkhas,Addition,May,252.0
+3383,3383,Siwalkhas,Deletion,March,8.0
+3384,3384,Siwalkhas,Deletion,April,46.0
+3385,3385,Siwalkhas,Deletion,May,15.0
+3386,3386,Siwalkhas,Modification,March,132.0
+3387,3387,Siwalkhas,Modification,April,187.0
+3388,3388,Siwalkhas,Modification,May,114.0
+3389,3389,Soraon,Addition,March,68.0
+3390,3390,Soraon,Addition,April,79.0
+3391,3391,Soraon,Addition,May,94.0
+3392,3392,Soraon,Deletion,March,13.0
+3393,3393,Soraon,Deletion,April,21.0
+3394,3394,Soraon,Deletion,May,14.0
+3395,3395,Soraon,Modification,March,27.0
+3396,3396,Soraon,Modification,April,42.0
+3397,3397,Soraon,Modification,May,35.0
+3398,3398,Sri Nagar,Addition,March,175.0
+3399,3399,Sri Nagar,Addition,April,100.0
+3400,3400,Sri Nagar,Addition,May,104.0
+3401,3401,Sri Nagar,Deletion,March,7.0
+3402,3402,Sri Nagar,Deletion,April,74.0
+3403,3403,Sri Nagar,Deletion,May,53.0
+3404,3404,Sri Nagar,Modification,March,62.0
+3405,3405,Sri Nagar,Modification,April,53.0
+3406,3406,Sri Nagar,Modification,May,102.0
+3407,3407,Suar,Addition,March,277.0
+3408,3408,Suar,Addition,April,116.0
+3409,3409,Suar,Addition,May,147.0
+3410,3410,Suar,Deletion,March,16.0
+3411,3411,Suar,Deletion,April,17.0
+3412,3412,Suar,Deletion,May,8.0
+3413,3413,Suar,Modification,March,122.0
+3414,3414,Suar,Modification,April,167.0
+3415,3415,Suar,Modification,May,155.0
+3416,3416,Sultanpur,Addition,March,256.0
+3417,3417,Sultanpur,Addition,April,226.0
+3418,3418,Sultanpur,Addition,May,249.0
+3419,3419,Sultanpur,Deletion,March,21.0
+3420,3420,Sultanpur,Deletion,April,37.0
+3421,3421,Sultanpur,Deletion,May,17.0
+3422,3422,Sultanpur,Modification,March,148.0
+3423,3423,Sultanpur,Modification,April,183.0
+3424,3424,Sultanpur,Modification,May,143.0
+3425,3425,Tamkuhi Raj,Addition,March,313.0
+3426,3426,Tamkuhi Raj,Addition,April,344.0
+3427,3427,Tamkuhi Raj,Addition,May,326.0
+3428,3428,Tamkuhi Raj,Deletion,March,10.0
+3429,3429,Tamkuhi Raj,Deletion,April,51.0
+3430,3430,Tamkuhi Raj,Deletion,May,8.0
+3431,3431,Tamkuhi Raj,Modification,March,220.0
+3432,3432,Tamkuhi Raj,Modification,April,243.0
+3433,3433,Tamkuhi Raj,Modification,May,265.0
+3434,3434,Tanda,Addition,March,389.0
+3435,3435,Tanda,Addition,April,401.0
+3436,3436,Tanda,Addition,May,283.0
+3437,3437,Tanda,Deletion,March,62.0
+3438,3438,Tanda,Deletion,April,141.0
+3439,3439,Tanda,Deletion,May,56.0
+3440,3440,Tanda,Modification,March,240.0
+3441,3441,Tanda,Modification,April,263.0
+3442,3442,Tanda,Modification,May,200.0
+3443,3443,Tarabganj,Addition,March,493.0
+3444,3444,Tarabganj,Addition,April,341.0
+3445,3445,Tarabganj,Addition,May,259.0
+3446,3446,Tarabganj,Deletion,March,94.0
+3447,3447,Tarabganj,Deletion,April,170.0
+3448,3448,Tarabganj,Deletion,May,11.0
+3449,3449,Tarabganj,Modification,March,387.0
+3450,3450,Tarabganj,Modification,April,185.0
+3451,3451,Tarabganj,Modification,May,122.0
+3452,3452,Thakurdwara,Addition,March,153.0
+3453,3453,Thakurdwara,Addition,April,94.0
+3454,3454,Thakurdwara,Addition,May,107.0
+3455,3455,Thakurdwara,Deletion,March,30.0
+3456,3456,Thakurdwara,Deletion,April,45.0
+3457,3457,Thakurdwara,Deletion,May,21.0
+3458,3458,Thakurdwara,Modification,March,213.0
+3459,3459,Thakurdwara,Modification,April,183.0
+3460,3460,Thakurdwara,Modification,May,157.0
+3461,3461,Thana Bhawan,Addition,March,206.0
+3462,3462,Thana Bhawan,Addition,April,242.0
+3463,3463,Thana Bhawan,Addition,May,287.0
+3464,3464,Thana Bhawan,Deletion,March,31.0
+3465,3465,Thana Bhawan,Deletion,April,69.0
+3466,3466,Thana Bhawan,Deletion,May,18.0
+3467,3467,Thana Bhawan,Modification,March,192.0
+3468,3468,Thana Bhawan,Modification,April,190.0
+3469,3469,Thana Bhawan,Modification,May,196.0
+3470,3470,Tilhar,Addition,March,198.0
+3471,3471,Tilhar,Addition,April,201.0
+3472,3472,Tilhar,Addition,May,195.0
+3473,3473,Tilhar,Deletion,March,49.0
+3474,3474,Tilhar,Deletion,April,34.0
+3475,3475,Tilhar,Deletion,May,3.0
+3476,3476,Tilhar,Modification,March,86.0
+3477,3477,Tilhar,Modification,April,84.0
+3478,3478,Tilhar,Modification,May,71.0
+3479,3479,Tiloi,Addition,March,311.0
+3480,3480,Tiloi,Addition,April,122.0
+3481,3481,Tiloi,Addition,May,144.0
+3482,3482,Tiloi,Deletion,March,32.0
+3483,3483,Tiloi,Deletion,April,45.0
+3484,3484,Tiloi,Deletion,May,14.0
+3485,3485,Tiloi,Modification,March,154.0
+3486,3486,Tiloi,Modification,April,81.0
+3487,3487,Tiloi,Modification,May,102.0
+3488,3488,Tindwari,Addition,March,111.0
+3489,3489,Tindwari,Addition,April,179.0
+3490,3490,Tindwari,Addition,May,167.0
+3491,3491,Tindwari,Deletion,March,17.0
+3492,3492,Tindwari,Deletion,April,42.0
+3493,3493,Tindwari,Deletion,May,7.0
+3494,3494,Tindwari,Modification,March,137.0
+3495,3495,Tindwari,Modification,April,138.0
+3496,3496,Tindwari,Modification,May,95.0
+3497,3497,Tirwa,Addition,March,428.0
+3498,3498,Tirwa,Addition,April,176.0
+3499,3499,Tirwa,Addition,May,177.0
+3500,3500,Tirwa,Deletion,March,90.0
+3501,3501,Tirwa,Deletion,April,34.0
+3502,3502,Tirwa,Deletion,May,9.0
+3503,3503,Tirwa,Modification,March,93.0
+3504,3504,Tirwa,Modification,April,95.0
+3505,3505,Tirwa,Modification,May,72.0
+3506,3506,Tulsipur,Addition,March,200.0
+3507,3507,Tulsipur,Addition,April,163.0
+3508,3508,Tulsipur,Addition,May,194.0
+3509,3509,Tulsipur,Deletion,March,9.0
+3510,3510,Tulsipur,Deletion,April,10.0
+3511,3511,Tulsipur,Deletion,May,3.0
+3512,3512,Tulsipur,Modification,March,99.0
+3513,3513,Tulsipur,Modification,April,98.0
+3514,3514,Tulsipur,Modification,May,83.0
+3515,3515,Tundla,Addition,March,237.0
+3516,3516,Tundla,Addition,April,208.0
+3517,3517,Tundla,Addition,May,247.0
+3518,3518,Tundla,Deletion,March,18.0
+3519,3519,Tundla,Deletion,April,25.0
+3520,3520,Tundla,Deletion,May,19.0
+3521,3521,Tundla,Modification,March,149.0
+3522,3522,Tundla,Modification,April,126.0
+3523,3523,Tundla,Modification,May,126.0
+3524,3524,Unchahar,Addition,March,68.0
+3525,3525,Unchahar,Addition,April,34.0
+3526,3526,Unchahar,Addition,May,42.0
+3527,3527,Unchahar,Deletion,March,2.0
+3528,3528,Unchahar,Deletion,April,21.0
+3529,3529,Unchahar,Deletion,May,8.0
+3530,3530,Unchahar,Modification,March,33.0
+3531,3531,Unchahar,Modification,April,56.0
+3532,3532,Unchahar,Modification,May,48.0
+3533,3533,Unnao,Addition,March,446.0
+3534,3534,Unnao,Addition,April,442.0
+3535,3535,Unnao,Addition,May,503.0
+3536,3536,Unnao,Deletion,March,13.0
+3537,3537,Unnao,Deletion,April,29.0
+3538,3538,Unnao,Deletion,May,11.0
+3539,3539,Unnao,Modification,March,164.0
+3540,3540,Unnao,Modification,April,147.0
+3541,3541,Unnao,Modification,May,161.0
+3542,3542,Utraula,Addition,March,186.0
+3543,3543,Utraula,Addition,April,211.0
+3544,3544,Utraula,Addition,May,165.0
+3545,3545,Utraula,Deletion,March,9.0
+3546,3546,Utraula,Deletion,April,54.0
+3547,3547,Utraula,Deletion,May,20.0
+3548,3548,Utraula,Modification,March,137.0
+3549,3549,Utraula,Modification,April,159.0
+3550,3550,Utraula,Modification,May,151.0
+3551,3551,Varanasi Cantt,Addition,March,653.0
+3552,3552,Varanasi Cantt,Addition,April,732.0
+3553,3553,Varanasi Cantt,Addition,May,1098.0
+3554,3554,Varanasi Cantt,Deletion,March,33.0
+3555,3555,Varanasi Cantt,Deletion,April,142.0
+3556,3556,Varanasi Cantt,Deletion,May,22.0
+3557,3557,Varanasi Cantt,Modification,March,223.0
+3558,3558,Varanasi Cantt,Modification,April,310.0
+3559,3559,Varanasi Cantt,Modification,May,492.0
+3560,3560,Varanasi North,Addition,March,627.0
+3561,3561,Varanasi North,Addition,April,593.0
+3562,3562,Varanasi North,Addition,May,730.0
+3563,3563,Varanasi North,Deletion,March,37.0
+3564,3564,Varanasi North,Deletion,April,59.0
+3565,3565,Varanasi North,Deletion,May,25.0
+3566,3566,Varanasi North,Modification,March,217.0
+3567,3567,Varanasi North,Modification,April,247.0
+3568,3568,Varanasi North,Modification,May,318.0
+3569,3569,Varanasi South,Addition,March,360.0
+3570,3570,Varanasi South,Addition,April,422.0
+3571,3571,Varanasi South,Addition,May,488.0
+3572,3572,Varanasi South,Deletion,March,15.0
+3573,3573,Varanasi South,Deletion,April,68.0
+3574,3574,Varanasi South,Deletion,May,13.0
+3575,3575,Varanasi South,Modification,March,142.0
+3576,3576,Varanasi South,Modification,April,173.0
+3577,3577,Varanasi South,Modification,May,181.0
+3578,3578,Zafrabad,Addition,March,328.0
+3579,3579,Zafrabad,Addition,April,267.0
+3580,3580,Zafrabad,Addition,May,355.0
+3581,3581,Zafrabad,Deletion,March,33.0
+3582,3582,Zafrabad,Deletion,April,44.0
+3583,3583,Zafrabad,Deletion,May,12.0
+3584,3584,Zafrabad,Modification,March,172.0
+3585,3585,Zafrabad,Modification,April,134.0
+3586,3586,Zafrabad,Modification,May,152.0
+3587,3587,Zahoorabad,Addition,March,46.0
+3588,3588,Zahoorabad,Addition,April,61.0
+3589,3589,Zahoorabad,Addition,May,67.0
+3590,3590,Zahoorabad,Deletion,March,10.0
+3591,3591,Zahoorabad,Deletion,April,41.0
+3592,3592,Zahoorabad,Deletion,May,2.0
+3593,3593,Zahoorabad,Modification,March,119.0
+3594,3594,Zahoorabad,Modification,April,97.0
+3595,3595,Zahoorabad,Modification,May,103.0
+3596,3596,Zaidpur,Addition,March,110.0
+3597,3597,Zaidpur,Addition,April,86.0
+3598,3598,Zaidpur,Addition,May,91.0
+3599,3599,Zaidpur,Deletion,March,5.0
+3600,3600,Zaidpur,Deletion,April,5.0
+3601,3601,Zaidpur,Deletion,May,2.0
+3602,3602,Zaidpur,Modification,March,59.0
+3603,3603,Zaidpur,Modification,April,66.0
+3604,3604,Zaidpur,Modification,May,84.0
+3605,3605,Zamania,Addition,March,255.0
+3606,3606,Zamania,Addition,April,213.0
+3607,3607,Zamania,Addition,May,255.0
+3608,3608,Zamania,Deletion,March,30.0
+3609,3609,Zamania,Deletion,April,60.0
+3610,3610,Zamania,Deletion,May,12.0
+3611,3611,Zamania,Modification,March,193.0
+3612,3612,Zamania,Modification,April,219.0
+3613,3613,Zamania,Modification,May,187.0

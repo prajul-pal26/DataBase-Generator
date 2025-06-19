@@ -1,3 +1,5 @@
+# creating the data.csv for further getting there id to fetch
+
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import Select
