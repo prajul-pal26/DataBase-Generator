@@ -1,4 +1,5 @@
 # creating the data.csv for further getting there id to fetch
+# generate only one times
 
 from selenium import webdriver
 from selenium.webdriver.common.by import By
